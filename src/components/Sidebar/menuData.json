@@ -1,0 +1,51 @@
+{
+  "PlantMenu": [
+    {
+      "PlantMenuId": 1,
+      "Menu": "Admin",
+      "PlantMenuSub": [
+        {
+          "PlantMenuSubId": 1,
+          "PlantMenuId": 1,
+          "MenuSub": "User"
+        },
+        {
+          "PlantMenuSubId": 2,
+          "PlantMenuId": 1,
+          "MenuSub": "Master",
+          "Cards": [
+            {
+              "CardId": 1,
+              "Card": "Category"
+            },
+            {
+              "CardId": 2,
+              "Card": "Location"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PlantMenuId": 2,
+      "Menu": "AssetManagement",
+      "PlantMenuSub": [
+        {
+          "PlantMenuSubId": 3,
+          "PlantMenuId": 2,
+          "MenuSub": "Asset"
+        },
+        {
+          "PlantMenuSubId": 4,
+          "PlantMenuId": 2,
+          "MenuSub": "Complaint"
+        },
+        {
+          "PlantMenuSubId": 5,
+          "PlantMenuId": 2,
+          "MenuSub": "BreakDown"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.inputStyle {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.buttonStyle {
+  padding: 7px 12px;
+  margin: 10px 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: #efefef;
+  color: rgb(97 97 97);
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.saveButton {
+  background-color: rgb(5, 110, 233);
+  padding: 7px 12px;
+  margin: 10px 5px;
+  color: white;
+  border-radius: 5px;
+}

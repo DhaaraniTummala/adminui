@@ -1,0 +1,92 @@
+/* Webkit Browsers (Chrome, Edge, etc.) */
+.custom-scroll::-webkit-scrollbar {
+  width: 5px; /* reduce thickness here */
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: #7f56d9;
+}
+
+/* Horizontal section with footer layout */
+.horizontal-section-with-footer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Content area - keep vertical scroll, hide horizontal */
+.custom-scroll-content {
+  flex: 1;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+/* Keep vertical scrollbar, hide horizontal */
+.custom-scroll-content::-webkit-scrollbar {
+  width: 5px; /* Show vertical scrollbar */
+  height: 0px; /* Hide horizontal scrollbar */
+}
+
+.custom-scroll-content::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+.custom-scroll-content::-webkit-scrollbar-thumb {
+  background: #7f56d9;
+}
+
+/* Footer with custom scrollbar - Fixed height */
+.horizontal-scroll-footer {
+  height: 18px; /* Reduced height for better proportions */
+  background: white;
+  border-top: 1px solid #f1f5f9;
+  padding: 3px 0; /* Reduced padding */
+  flex-shrink: 0;
+  display: flex;
+  align-items: center; /* Center the scrollbar vertically */
+}
+
+.horizontal-scrollbar {
+  width: 100%;
+  height: 8px; /* Reduced height for better appearance */
+  overflow-x: auto;
+  overflow-y: hidden;
+  background: #f8fafc;
+  border-radius: 4px; /* Smaller radius */
+}
+
+.horizontal-scrollbar::-webkit-scrollbar {
+  height: 8px; /* Reduced for better appearance */
+}
+
+.horizontal-scrollbar::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px; /* Smaller radius */
+  margin: 0 5px; /* Add margin to prevent cutting */
+}
+
+.horizontal-scrollbar::-webkit-scrollbar-thumb {
+  background: #6941c6;
+  border-radius: 4px; /* Smaller radius */
+  border: 1px solid #f1f5f9; /* Thinner border */
+}
+
+.horizontal-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #5b21b6;
+}
+
+.scrollbar-content {
+  height: 1px;
+  background: transparent;
+  width: 100%; /* Will be set by JavaScript */
+}
+
+/* For Firefox */
+.horizontal-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #6941c6 #f1f5f9;
+}

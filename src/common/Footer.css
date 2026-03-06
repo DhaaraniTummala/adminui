@@ -1,0 +1,23 @@
+/* styles.css */
+@media (max-width: 768px) {
+  .footer-item {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    text-align: center;
+    margin-bottom: 0 !important;
+  }
+
+  footer ul {
+    width: 100% !important;
+    margin: auto;
+  }
+
+  footer ul .footer_privacy_policy_texts {
+    margin-left: 0px !important;
+  }
+
+  footer ul li {
+    width: 100% !important;
+    margin: auto;
+  }
+}

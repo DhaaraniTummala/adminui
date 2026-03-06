@@ -1,0 +1,5500 @@
+{
+    "success": true,
+    "length": 323,
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3596382,
+              33.7619564
+            ]
+          },
+          "properties": {
+            "placeId": "82d565b8-0a64-4177-8d21-002efa3674c2",
+            "value": 16,
+            "placeName": "Highland Cigar Company",
+            "address": "245 North Highland Avenue Northeast STE 140, Atlanta, GA 30307",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4918403,
+              33.8494205
+            ]
+          },
+          "properties": {
+            "placeId": "818a15a5-1fb9-4b38-8fa5-02ef9ec66ea4",
+            "value": 65,
+            "placeName": "Muss & Turner's",
+            "address": "1675 Cumberland Pkwy SE Suite 309, Cumberland, GA 30080",
+            "placeType": "American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5387645,
+              53.8010952
+            ]
+          },
+          "properties": {
+            "placeId": "f043bfcd-7a72-4d07-a645-0599809bcc41",
+            "value": 26,
+            "placeName": "BrewDog North Street Leeds",
+            "address": "Crispin House, New York Rd, Leeds LS2 7PF, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5393801,
+              53.799632
+            ]
+          },
+          "properties": {
+            "placeId": "bdcaca4e-4569-4796-87cc-067ce7c27300",
+            "value": 26,
+            "placeName": "Howl Bar Leeds",
+            "address": "112 Vicar Ln, Leeds LS2 7NL, United Kingdom",
+            "placeType": "Live music bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3804087,
+              33.7729895
+            ]
+          },
+          "properties": {
+            "placeId": "993a2d11-71b0-4fd6-a4ac-074f273a94e9",
+            "value": 43,
+            "placeName": "Bon Ton",
+            "address": "674 Myrtle St NE, Atlanta, GA 30308",
+            "placeType": "Seafood restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.550635,
+              53.7932793
+            ]
+          },
+          "properties": {
+            "placeId": "30ad5c3e-dbd4-4a3f-95a1-096f04ba2a71",
+            "value": 30,
+            "placeName": "SALT Granary Wharf",
+            "address": "Granary Wharf, Candle House, Leeds LS1 4GJ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5373843,
+              53.8020431
+            ]
+          },
+          "properties": {
+            "placeId": "6a10d7d7-022a-43dd-9ebf-097e1c28925a",
+            "value": 34,
+            "placeName": "The Brunswick",
+            "address": "82 North St, Leeds LS2 7PN, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5503115,
+              53.7956807
+            ]
+          },
+          "properties": {
+            "placeId": "0eddff87-7718-459c-a655-09d7b96d1029",
+            "value": 33,
+            "placeName": "The Brew Society",
+            "address": "26 Aire St, Leeds LS1 4HT, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5452443,
+              53.7998985
+            ]
+          },
+          "properties": {
+            "placeId": "da12e29f-4dc3-43a8-b54d-0a47bcc9480b",
+            "value": 26,
+            "placeName": "Turtle Bay Leeds",
+            "address": "14, The Light, The Headrow, Leeds LS1 8TL, United Kingdom",
+            "placeType": "Caribbean restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5436645,
+              53.7963791
+            ]
+          },
+          "properties": {
+            "placeId": "d222e453-7526-4ea7-850e-0a63c6b1b579",
+            "value": 3,
+            "placeName": "Lindt Chocolate Shop Leeds",
+            "address": "Unit 2, 28 Albion St, Leeds LS1 5AR, United Kingdom",
+            "placeType": "Chocolate shop"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5493585,
+              53.7933773
+            ]
+          },
+          "properties": {
+            "placeId": "fa4a8f5c-3109-4776-ae35-0a6ad3699aaa",
+            "value": 30,
+            "placeName": "The Lock",
+            "address": "Granary Wharf House, 2 Wharf Approach, Leeds LS1 4BR, United Kingdom",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4078999,
+              33.7771263
+            ]
+          },
+          "properties": {
+            "placeId": "e3be4076-34fc-4659-8746-0b2e9d8b74cd",
+            "value": 6,
+            "placeName": "Rock Steady - Atlanta",
+            "address": "907 Marietta St NW, Atlanta, GA 30318",
+            "placeType": "Caribbean restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3492199,
+              33.7662559
+            ]
+          },
+          "properties": {
+            "placeId": "84d1171e-9ad0-4255-8526-0c3de5111cda",
+            "value": 37,
+            "placeName": "The Vortex Bar & Grill",
+            "address": "438 Moreland Ave NE, Atlanta, GA 30307",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -117.2463812,
+              32.7525858
+            ]
+          },
+          "properties": {
+            "placeId": "c4dffacd-139a-425f-b5eb-0d928fa3ca05",
+            "value": 62,
+            "placeName": "Northside Tavern",
+            "address": "2228 Bacon St, San Diego, CA 92107",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5408728,
+              53.7988655
+            ]
+          },
+          "properties": {
+            "placeId": "1e36b5cb-8a03-4ab2-8b2d-0dccfe568dd8",
+            "value": 34,
+            "placeName": "Headrow House",
+            "address": "19a The Headrow, Leeds LS1 6PU, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.549072,
+              53.7984874
+            ]
+          },
+          "properties": {
+            "placeId": "ee5bc695-5688-4f20-ab06-0e9f473f4aac",
+            "value": 3,
+            "placeName": "All Bar One Greek Street Leeds",
+            "address": "27 E Parade, Leeds LS1 5BN, United Kingdom",
+            "placeType": "Wine bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5453338,
+              53.7975811
+            ]
+          },
+          "properties": {
+            "placeId": "d4c31f8c-39d7-4dfa-abc1-0ea5535bbd95",
+            "value": 50,
+            "placeName": "Cosy Club",
+            "address": "53 Albion St, Leeds LS1 5AA, United Kingdom",
+            "placeType": "Modern European restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5418151,
+              53.7961641
+            ]
+          },
+          "properties": {
+            "placeId": "7d1630fb-a4fd-48a5-ba60-0f71d03cc6a4",
+            "value": 1,
+            "placeName": "Distrikt",
+            "address": "7 Duncan St, Leeds LS1 6DQ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3655413,
+              33.772597
+            ]
+          },
+          "properties": {
+            "placeId": "c539ee18-6cdd-46f8-ae40-10a6abe2349f",
+            "value": 26,
+            "placeName": "Bar Vegan",
+            "address": "675 Ponce De Leon Ave NE Suite N-215, Atlanta, GA 30308",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3874884,
+              33.7779264
+            ]
+          },
+          "properties": {
+            "placeId": "07b78dec-3e5d-4e19-b49c-1176a1405ded",
+            "value": 11,
+            "placeName": "MidCity",
+            "address": "850 W Peachtree St NW, Atlanta, GA 30308",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.304808,
+              33.7602631
+            ]
+          },
+          "properties": {
+            "placeId": "d2b6565f-9e15-4426-acb9-1180b8da7557",
+            "value": 90,
+            "placeName": "Sceptre Brewing Arts",
+            "address": "630 East Lake Dr STE E, Decatur, GA 30030",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3853196,
+              33.7861596
+            ]
+          },
+          "properties": {
+            "placeId": "930d4c4b-f60d-4fb3-9106-11b1a9bcb13e",
+            "value": 38,
+            "placeName": "Bar Margot",
+            "address": "75 14th St NE, Atlanta, GA 30309",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5668008,
+              53.8278319
+            ]
+          },
+          "properties": {
+            "placeId": "775110e5-b855-4615-8e4e-11e817ecc1e0",
+            "value": 50,
+            "placeName": "The Meanwood Tavern",
+            "address": "607 Meanwood Rd, Meanwood, Leeds LS6 4HQ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.469271,
+              33.8897327
+            ]
+          },
+          "properties": {
+            "placeId": "05872e89-b7f2-444b-9b7c-1230feea1ae9",
+            "value": 56,
+            "placeName": "Sports & Social Atlanta",
+            "address": "825 Battery Ave SE #610, Atlanta, GA 30339",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3462356,
+              33.7413259
+            ]
+          },
+          "properties": {
+            "placeId": "2a5bdd2c-296a-43f3-b548-1438c4c1f025",
+            "value": 29,
+            "placeName": "Argosy",
+            "address": "470 Flat Shoals Ave SE, Atlanta, GA 30316",
+            "placeType": "New American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3835256,
+              33.7869774
+            ]
+          },
+          "properties": {
+            "placeId": "2401c005-6cde-4b8a-8eb4-1443b0a5f4c4",
+            "value": 45,
+            "placeName": "Pour Taproom: Midtown",
+            "address": "1180 Peachtree St NE suite a, Atlanta, GA 30309",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3634325,
+              33.7520764
+            ]
+          },
+          "properties": {
+            "placeId": "37d53ea4-cc21-4644-b92e-1479606da554",
+            "value": 37,
+            "placeName": "97 Estoria",
+            "address": "727 Wylie St SE, Atlanta, GA 30316",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.393529,
+              33.757142
+            ]
+          },
+          "properties": {
+            "placeId": "4b14c41d-29d6-411d-ad82-17a5793507b1",
+            "value": 39,
+            "placeName": "Hudson Grille",
+            "address": "120 Marietta St NW, Atlanta, GA 30303",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3728535,
+              33.7463917
+            ]
+          },
+          "properties": {
+            "placeId": "7a3541a3-b3d3-4c5a-95ad-19830de263d3",
+            "value": 41,
+            "placeName": "Six Feet Under Pub & Fish House - Grant Park",
+            "address": "437 Memorial Dr SE Suite #1A, Atlanta, GA 30312",
+            "placeType": "Seafood restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5479364,
+              53.7982661
+            ]
+          },
+          "properties": {
+            "placeId": "2d396b2d-9405-4e9e-a3b1-19c5e357336c",
+            "value": 16,
+            "placeName": "Lost & Found Leeds",
+            "address": "12 Greek St, Leeds LS1 5RN, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.439296,
+              33.7638889
+            ]
+          },
+          "properties": {
+            "placeId": "4ce33aa4-8918-4c35-857d-1a13d5454f0d",
+            "value": 66,
+            "placeName": "Deja Vu Sports Bar & Lounge",
+            "address": "1575 Joseph E. Boone Blvd NW, Atlanta, GA 30318",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3681748,
+              33.7717738
+            ]
+          },
+          "properties": {
+            "placeId": "b0469f8d-4317-489d-920e-1a633badc3a3",
+            "value": 19,
+            "placeName": "Cru Lounge - Midtown",
+            "address": "620 Glen Iris Dr NE UNIT 101, Atlanta, GA 30308",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2338284,
+              33.9556885
+            ]
+          },
+          "properties": {
+            "placeId": "3379ef6e-dc8e-43c0-abfc-1b85a82920c8",
+            "value": 14,
+            "placeName": "Mega Event Hall",
+            "address": "6025 Peachtree Pkwy Ste 15, Norcross, GA 30092",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5454701,
+              53.7956658
+            ]
+          },
+          "properties": {
+            "placeId": "51bf5b52-7c34-4b53-af57-1cea6345e947",
+            "value": 30,
+            "placeName": "The Bankers Cat",
+            "address": "29 Boar Ln, Leeds LS1 5DA, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5485719,
+              53.795707
+            ]
+          },
+          "properties": {
+            "placeId": "4e38f4ed-bcd9-440c-9130-1e5b196048ac",
+            "value": 36,
+            "placeName": "Wetherspoons",
+            "address": "North Concourse, City Station, Leeds LS1 4DY, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3770782,
+              33.8396122
+            ]
+          },
+          "properties": {
+            "placeId": "7f2e2521-5725-40d2-a90c-1f45665be3e1",
+            "value": 43,
+            "placeName": "Irby's Tavern",
+            "address": "322 East Paces Ferry Rd NE, Atlanta, GA 30305",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3775735,
+              33.7047782
+            ]
+          },
+          "properties": {
+            "placeId": "daf6e73e-d191-4320-a22f-1f7b5f7bbd81",
+            "value": 21,
+            "placeName": "Ali Events at Lakewood Atlanta",
+            "address": "1800 Jonesboro Rd SE, Atlanta, GA 30315",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5329434,
+              53.7911855
+            ]
+          },
+          "properties": {
+            "placeId": "41a2db93-9159-488e-bf56-1f7f59cbebcc",
+            "value": 38,
+            "placeName": "The Canary",
+            "address": "The Dockside, Leeds LS10 1EG, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4447076,
+              33.8135003
+            ]
+          },
+          "properties": {
+            "placeId": "b6e651c4-43ea-4476-b28a-2004ce1b52de",
+            "value": 33,
+            "placeName": "Scofflaw Brewing Co.",
+            "address": "1738 MacArthur Blvd NW, Atlanta, GA 30318",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.54389,
+              53.794909
+            ]
+          },
+          "properties": {
+            "placeId": "b7dcfe7c-3409-4774-acc4-217b9df022de",
+            "value": 5,
+            "placeName": "The Shed Bar",
+            "address": "6 Heaton's Ct, Leeds LS1 4LJ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.352692,
+              33.7770217
+            ]
+          },
+          "properties": {
+            "placeId": "15858663-7de4-4556-a5e4-22bac0fd9b74",
+            "value": 48,
+            "placeName": "Limerick Junction Pub",
+            "address": "822 North Highland Avenue Northeast, Atlanta, GA 30306",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6803436,
+              53.8259654
+            ]
+          },
+          "properties": {
+            "placeId": "05a47506-3dcd-4c2b-8704-2493b076215a",
+            "value": 40,
+            "placeName": "The Calverley Arms, Pudsey",
+            "address": "The Calverley Arms, Calverley Ln, Calverley, Pudsey LS28 5QQ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3654361,
+              33.7561731
+            ]
+          },
+          "properties": {
+            "placeId": "56c7a9d4-6e34-4e4a-945d-26b673d73aa3",
+            "value": 12,
+            "placeName": "Pour Taproom-Beltline",
+            "address": "661 Auburn Ave NE, Atlanta, GA 30312",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.37099,
+              33.7966196
+            ]
+          },
+          "properties": {
+            "placeId": "2052797a-ad4f-4e5c-8b8c-27411a465fd2",
+            "value": 16,
+            "placeName": "Felix's Atlanta",
+            "address": "1510 Piedmont Ave NE, Atlanta, GA 30324",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2270021,
+              33.9409174
+            ]
+          },
+          "properties": {
+            "placeId": "8293b39e-22a1-4e5e-b85d-277a43729ddc",
+            "value": 15,
+            "placeName": "Cultivation Brewery",
+            "address": "650 Langford Dr, Norcross, GA 30071",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3629123,
+              33.7662753
+            ]
+          },
+          "properties": {
+            "placeId": "12a76f8a-1bc3-4d08-8387-293afb185b32",
+            "value": 41,
+            "placeName": "Bantam Pub",
+            "address": "737 Ralph McGill Blvd NE, Atlanta, GA 30312",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3933933,
+              33.8118874
+            ]
+          },
+          "properties": {
+            "placeId": "70018e81-5d3c-4403-b8e2-29c61ee3b320",
+            "value": 4,
+            "placeName": "Teranga City Ultra Lounge",
+            "address": "22 Bennett St NW, Atlanta, GA 30309",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5446483,
+              53.8012353
+            ]
+          },
+          "properties": {
+            "placeId": "07bbda6e-e645-4044-8737-2a50252854d4",
+            "value": 20,
+            "placeName": "Merchant Leeds",
+            "address": "20-24 Woodhouse Ln, Leeds LS2 8LX, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5661208,
+              53.8287263
+            ]
+          },
+          "properties": {
+            "placeId": "3c633255-763b-43c5-b7b5-2bae73aed8ca",
+            "value": 40,
+            "placeName": "Boot & Rally",
+            "address": "11 Stonegate Rd, Meanwood, Leeds LS6 4HZ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5484007,
+              53.793264
+            ]
+          },
+          "properties": {
+            "placeId": "4208bc93-159d-4a5d-951d-2bc7ec70ce21",
+            "value": 32,
+            "placeName": "Fazenda Rodizio Bar & Grill Leeds",
+            "address": "Waterman's Place, Unit 4-7 Granary Wharf, Leeds LS1 4GL, United Kingdom",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5557137,
+              53.7955352
+            ]
+          },
+          "properties": {
+            "placeId": "e130669e-8ebe-43b5-9afe-2da4c4f317dc",
+            "value": 31,
+            "placeName": "The Good Luck Club",
+            "address": "6 Wellington Pl, Leeds LS1 4AP, United Kingdom",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5410122,
+              53.7967365
+            ]
+          },
+          "properties": {
+            "placeId": "b28cade4-2f0b-4f4c-8c93-300e59e81624",
+            "value": 25,
+            "placeName": "Brownhill & Co. Speciality Beer Bar",
+            "address": "30 Central Rd, Leeds LS1 6DE, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3866064,
+              33.7615046
+            ]
+          },
+          "properties": {
+            "placeId": "6d93a3be-ec37-4f5f-a95d-309c97c0a5ab",
+            "value": 28,
+            "placeName": "Twenty Two Storys",
+            "address": "265 Peachtree St, Atlanta, GA 30303",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5411384,
+              53.795552
+            ]
+          },
+          "properties": {
+            "placeId": "5c118c5c-40f1-4be7-aacf-30ca3f294402",
+            "value": 1,
+            "placeName": "Call Lane Social",
+            "address": "38 Call Ln, Leeds LS1 6DT, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5533333,
+              53.7958333
+            ]
+          },
+          "properties": {
+            "placeId": "1fe0b895-5988-4431-895d-3158186e4e69",
+            "value": 26,
+            "placeName": "Lazy Lounge",
+            "address": "Unit B2, West Point, Wellington St, Leeds LS1 4JY, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4553529,
+              33.8723266
+            ]
+          },
+          "properties": {
+            "placeId": "c570c93c-cadc-4109-97b1-31c71ef8c215",
+            "value": 68,
+            "placeName": "The UPS Store",
+            "address": "4355 Cobb Pkwy SE # J, Atlanta, GA 30339",
+            "placeType": "Shipping and mailing service"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3844357,
+              33.7834386
+            ]
+          },
+          "properties": {
+            "placeId": "5958addd-24a9-4a83-8af7-31fc37ab0111",
+            "value": 19,
+            "placeName": "Wicked Wolf Atlanta",
+            "address": "1080 Peachtree St NE #7, Atlanta, GA 30309",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4609512,
+              33.9045076
+            ]
+          },
+          "properties": {
+            "placeId": "3ba8ab21-3c61-4ef7-8757-33360b9d55e2",
+            "value": 81,
+            "placeName": "Rose & Crown Tavern",
+            "address": "1935 Powers Ferry Rd 2nd Floor, Atlanta, GA 30339",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3861456,
+              33.7773253
+            ]
+          },
+          "properties": {
+            "placeId": "e4654e77-db67-4538-83a8-354062e8127e",
+            "value": 77,
+            "placeName": "Cypress Street Pint & Plate",
+            "address": "817 W Peachtree St NW, Atlanta, GA 30308",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5788157,
+              53.8042391
+            ]
+          },
+          "properties": {
+            "placeId": "badca05d-51e5-4640-9b1c-357f4c76413c",
+            "value": 26,
+            "placeName": "The Park VR Leeds",
+            "address": "Falcon House, Walter St, Burley, Leeds LS4 2BB, United Kingdom",
+            "placeType": "Video arcade"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3857638,
+              33.7369699
+            ]
+          },
+          "properties": {
+            "placeId": "9c54277f-32ab-4706-9cc1-3595e0c26296",
+            "value": 41,
+            "placeName": "Halfway Crooks Beer",
+            "address": "60 Georgia Ave SE, Atlanta, GA 30312",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3455353,
+              33.7400512
+            ]
+          },
+          "properties": {
+            "placeId": "60e095e2-c136-4210-a364-35f4e2329b98",
+            "value": 10,
+            "placeName": "Mary's",
+            "address": "1287 Glenwood Ave SE Suite A, Atlanta, GA 30316",
+            "placeType": "Gay bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2331073,
+              33.8419267
+            ]
+          },
+          "properties": {
+            "placeId": "2a56b356-9ac8-4517-a5b9-364eeb0fc94c",
+            "value": 10,
+            "placeName": "Different Experiences Event Center",
+            "address": "3531 Lawrenceville Hwy UNIT E, Tucker, GA 30084",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5480518,
+              53.7966424
+            ]
+          },
+          "properties": {
+            "placeId": "03ca2e41-2e5a-4cdc-b108-3684dd2014ba",
+            "value": 38,
+            "placeName": "The Restaurant Bar & Grill Leeds",
+            "address": "The Old Post Office, 3 City Square, Leeds LS1 2ES, United Kingdom",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4364826,
+              33.6407233
+            ]
+          },
+          "properties": {
+            "placeId": "d64d9876-2bf8-4391-97a6-36e6d70f4dd8",
+            "value": 51,
+            "placeName": "Sam Adams Atlanta Brew House",
+            "address": "Hartsfield-Jackson Atlanta International Airport, Concourse B, Intl Airport, N Terminal Pkwy Suite T120, Atlanta, GA 30320",
+            "placeType": "Brewpub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.387442,
+              33.7595139
+            ]
+          },
+          "properties": {
+            "placeId": "89db1528-11f1-49ed-9419-370a1fca47a5",
+            "value": 32,
+            "placeName": "Hooters",
+            "address": "209 Peachtree Rd NE, Atlanta, GA 30303",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3364128,
+              33.8705848
+            ]
+          },
+          "properties": {
+            "placeId": "5a70fab8-2693-4e73-bc80-372c9c6be516",
+            "value": 47,
+            "placeName": "HOBNOB Neighborhood Tavern",
+            "address": "804 Town Blvd A1010, Atlanta, GA 30319",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3660411,
+              33.7723004
+            ]
+          },
+          "properties": {
+            "placeId": "c16c5228-f982-4368-bb3c-37d673090b40",
+            "value": 35,
+            "placeName": "The Roof at Ponce City Market",
+            "address": "675 Ponce De Leon Ave NE, Atlanta, GA 30308",
+            "placeType": "Amusement center"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5494246,
+              53.7976752
+            ]
+          },
+          "properties": {
+            "placeId": "380317a1-3415-4fe0-9fe8-381e30be482e",
+            "value": 26,
+            "placeName": "BOX Leeds",
+            "address": "15 Infirmary St, Leeds LS1 2JS, United Kingdom",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5416324,
+              53.7995808
+            ]
+          },
+          "properties": {
+            "placeId": "77d99c81-0f65-4563-93d2-386b5d9a865b",
+            "value": 15,
+            "placeName": "North Bar",
+            "address": "24 New Briggate, Leeds LS1 6NU, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4114202,
+              33.7856541
+            ]
+          },
+          "properties": {
+            "placeId": "758fdff1-0002-4347-964b-3999c661892c",
+            "value": 5,
+            "placeName": "HOLIDAY",
+            "address": "1115 Howell Mill Rd NW P150, Atlanta, GA 30318",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4085155,
+              33.6981601
+            ]
+          },
+          "properties": {
+            "placeId": "2afb300c-77ff-4606-b2a1-3b5f6fddb919",
+            "value": 62,
+            "placeName": "McDonald's",
+            "address": "2091 Stewart Ave, Atlanta, GA 30315",
+            "placeType": "Fast food restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3951569,
+              33.7502107
+            ]
+          },
+          "properties": {
+            "placeId": "ffee2ab2-fd5d-4f29-95f8-3cdafd812be5",
+            "value": 18,
+            "placeName": "Speakeasy Lounge",
+            "address": "156-A Forsyth St SW, Atlanta, GA 30303",
+            "placeType": "Night club"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3612569,
+              33.7684531
+            ]
+          },
+          "properties": {
+            "placeId": "3b7006f4-c2be-4447-bd9d-3dd1f8ba0090",
+            "value": 50,
+            "placeName": "TWO urban licks",
+            "address": "820 Ralph McGill Blvd NE, Atlanta, GA 30306",
+            "placeType": "American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5488711,
+              53.7927999
+            ]
+          },
+          "properties": {
+            "placeId": "50c21362-78dd-4ddd-bd61-3eab16f4ba18",
+            "value": 41,
+            "placeName": "Water Lane Boathouse",
+            "address": "Canal Wharf, Holbeck, Leeds LS11 5PS, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.543922,
+              53.794432
+            ]
+          },
+          "properties": {
+            "placeId": "22245979-ab9e-43c5-b917-3ecd489265bc",
+            "value": 33,
+            "placeName": "Chaophraya",
+            "address": "20A, Blayds Court, Swinegate, Leeds LS1 4AG, United Kingdom",
+            "placeType": "Thai restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.54231,
+              53.795578
+            ]
+          },
+          "properties": {
+            "placeId": "96749b22-7ccb-42c7-bbd7-3ee39a99f6e3",
+            "value": 4,
+            "placeName": "Smokestack",
+            "address": "159A Lower Briggate, Leeds LS1 6LY, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5476561,
+              53.8045349
+            ]
+          },
+          "properties": {
+            "placeId": "ccf617cb-58b8-49d4-96e3-3f15293f01f8",
+            "value": 6,
+            "placeName": "The Dry Dock Leeds",
+            "address": "Woodhouse Ln, Leeds LS2 3AX, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.470084,
+              33.889505
+            ]
+          },
+          "properties": {
+            "placeId": "55ef46dd-d437-4806-9dca-3f6d9b74cfd1",
+            "value": 21,
+            "placeName": "BURN by Rocky Patel Atlanta",
+            "address": "900 Battery Ave SE #1000, Atlanta, GA 30339",
+            "placeType": "Bar tabac"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3707825,
+              33.7964333
+            ]
+          },
+          "properties": {
+            "placeId": "1374815c-7981-45b7-bbe1-405eaaaceda4",
+            "value": 2,
+            "placeName": "Oscar's Bar",
+            "address": "1510 Piedmont Ave NE UNIT C, Atlanta, GA 30309",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5409361,
+              53.7953824
+            ]
+          },
+          "properties": {
+            "placeId": "98c9428a-4a3b-4a1f-ab23-4156ecc7d187",
+            "value": 23,
+            "placeName": "Roland's Leeds",
+            "address": "39 Call Ln, Leeds LS1 7BT, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5445386,
+              53.7979926
+            ]
+          },
+          "properties": {
+            "placeId": "59baa045-7cf2-49b6-b364-41f29484a1e6",
+            "value": 24,
+            "placeName": "Lost & Found Leeds Club",
+            "address": "3 Albion Pl, Leeds LS1 6JL, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4125893,
+              33.8086649
+            ]
+          },
+          "properties": {
+            "placeId": "0a11782f-5a05-4c1f-b33b-425db6a0547b",
+            "value": 33,
+            "placeName": "Mr. C's Bar & Grill",
+            "address": "1983 Howell Mill Rd NW, Atlanta, GA 30318",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4555734,
+              33.8724047
+            ]
+          },
+          "properties": {
+            "placeId": "2cd4a561-5ae9-4494-8c84-435a096d6c7f",
+            "value": 92,
+            "placeName": "Laseter's Tavern",
+            "address": "4355 Cobb Pkwy SE, Atlanta, GA 30339",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.36272,
+              33.7681081
+            ]
+          },
+          "properties": {
+            "placeId": "a3fd0ff5-774b-4140-9eee-45c7d5e8ef2a",
+            "value": 67,
+            "placeName": "Burle's Bar",
+            "address": "505 N Angier Ave NE Suite 500, Atlanta, GA 30308",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4280931,
+              33.7989239
+            ]
+          },
+          "properties": {
+            "placeId": "fdf5605f-a7be-414c-ba58-476679f231a2",
+            "value": 64,
+            "placeName": "Topgolf Atlanta Midtown",
+            "address": "1600 Ellsworth Industrial Blvd NW, Atlanta, GA 30318",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5400769,
+              53.8004924
+            ]
+          },
+          "properties": {
+            "placeId": "0ec8366b-b4dc-4d7b-9156-49983035a2dc",
+            "value": 11,
+            "placeName": "Mean-Eyed Cat Bar Leeds",
+            "address": "14 Merrion St, Leeds LS1 6PQ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3502171,
+              33.7648462
+            ]
+          },
+          "properties": {
+            "placeId": "020c58f3-998d-4602-aa06-4a7703eacb96",
+            "value": 36,
+            "placeName": "Euclid Avenue Yacht Club",
+            "address": "1136 Euclid Ave NE, Atlanta, GA 30307",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.542524,
+              53.7990562
+            ]
+          },
+          "properties": {
+            "placeId": "9cb35f6b-c248-4858-a009-4a924031f35a",
+            "value": 30,
+            "placeName": "Horse & Trumpet Hotel Leeds",
+            "address": "51-53 The Headrow, Leeds LS1 6LR, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5405358,
+              53.7988427
+            ]
+          },
+          "properties": {
+            "placeId": "1e6514b0-4c19-4913-8bb5-4bd8f852708c",
+            "value": 27,
+            "placeName": "Three Legs",
+            "address": "11 The Headrow, Leeds LS1 6PU, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5346019,
+              53.7721217
+            ]
+          },
+          "properties": {
+            "placeId": "a56115fc-133f-4b6e-991c-4c197519eab0",
+            "value": 24,
+            "placeName": "The Prospect Leeds",
+            "address": "93 Moor Rd, Leeds LS10 2JJ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5384815,
+              53.8287534
+            ]
+          },
+          "properties": {
+            "placeId": "298a4a1c-57ff-4fbb-9b5c-4ca5632429f3",
+            "value": 35,
+            "placeName": "The Woods, Leeds",
+            "address": "5, Stainbeck Corner, Chapel Allerton, Leeds LS7 3PG, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5181499,
+              53.8047489
+            ]
+          },
+          "properties": {
+            "placeId": "c89fdc6e-07b0-4e39-a811-4d9780808c34",
+            "value": 36,
+            "placeName": "Premier Banqueting",
+            "address": "Stoney Rock Ln, Leeds LS9 7TZ, United Kingdom",
+            "placeType": "Wedding venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3791705,
+              33.841933
+            ]
+          },
+          "properties": {
+            "placeId": "57016143-eb5a-41a8-91ef-4dabd1dc37f6",
+            "value": 21,
+            "placeName": "Red Door Tavern",
+            "address": "3180 Roswell Rd, Atlanta, GA 30305",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5457649,
+              53.7953362
+            ]
+          },
+          "properties": {
+            "placeId": "9b8b03c2-992b-45bd-ac78-4f78d1113318",
+            "value": 27,
+            "placeName": "The Head of Steam Leeds - Mill Hill",
+            "address": "12 Mill Hill, Leeds LS1 5DQ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6144709,
+              53.758082
+            ]
+          },
+          "properties": {
+            "placeId": "81761c78-c44e-4497-9dbc-4fc438978b3f",
+            "value": 57,
+            "placeName": "Woodlands Hotel",
+            "address": "79 Gelderd Rd, Gildersome, Leeds LS27 7LY, United Kingdom",
+            "placeType": "Wedding venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.36423,
+              33.7595612
+            ]
+          },
+          "properties": {
+            "placeId": "40c7298b-c926-43eb-b9c6-50bad1a028b0",
+            "value": 23,
+            "placeName": "Ladybird Grove & Mess Hall",
+            "address": "684 John Wesley Dobbs Ave NE Unit J, Atlanta, GA 30312",
+            "placeType": "New American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5429886,
+              53.7972541
+            ]
+          },
+          "properties": {
+            "placeId": "03542e41-8c69-4346-a6a1-50c91760a460",
+            "value": 24,
+            "placeName": "Whitelock's Ale House",
+            "address": "Turk's Head Yard, Leeds LS1 6HB, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5377054,
+              53.7959978
+            ]
+          },
+          "properties": {
+            "placeId": "0e6bcdbd-807f-4cf2-a887-52352e7992e6",
+            "value": 18,
+            "placeName": "Duck & Drake",
+            "address": "43 Kirkgate, Leeds LS2 7DR, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.545175,
+              53.7951499
+            ]
+          },
+          "properties": {
+            "placeId": "8c94be43-ae76-4f81-a1be-524231b239b1",
+            "value": 29,
+            "placeName": "The Brewery Tap",
+            "address": "18 New Station St, Leeds LS1 5DL, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5409194,
+              53.8003429
+            ]
+          },
+          "properties": {
+            "placeId": "b3588386-9765-4e8b-afd2-52a4bb93327c",
+            "value": 19,
+            "placeName": "Grand Arcade",
+            "address": "20 Merrion St, Leeds LS1 6PQ, United Kingdom",
+            "placeType": "Shopping mall"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6198946,
+              53.7954244
+            ]
+          },
+          "properties": {
+            "placeId": "5411268c-173f-49bc-9a76-52f0b1cb4605",
+            "value": 45,
+            "placeName": "Main Line Social Club",
+            "address": "Pudsey Rd, Leeds LS13 4LS, United Kingdom",
+            "placeType": "Social club"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.544027,
+              53.7963385
+            ]
+          },
+          "properties": {
+            "placeId": "596c5753-fde1-4735-9bfb-54130a0b5e39",
+            "value": 21,
+            "placeName": "The Alchemist Trinity",
+            "address": "Level 1, Trinity, Leeds LS1 6HW, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5525651,
+              53.7917082
+            ]
+          },
+          "properties": {
+            "placeId": "2ddea03d-82a1-4b42-98d6-566b31aad982",
+            "value": 34,
+            "placeName": "The Cross Keys",
+            "address": "107 Water Ln, Holbeck, Leeds LS11 5WD, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3850469,
+              33.7723774
+            ]
+          },
+          "properties": {
+            "placeId": "500ecf33-bc43-48b9-a24d-56fe12759005",
+            "value": 66,
+            "placeName": "Publik Draft House",
+            "address": "654 Peachtree St NE, Atlanta, GA 30308",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.540985,
+              53.793346
+            ]
+          },
+          "properties": {
+            "placeId": "3df82086-d58e-424b-a1a6-58dd8dcf4473",
+            "value": 45,
+            "placeName": "The Adelphi",
+            "address": "1-3 Hunslet Rd, Leeds LS10 1JQ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3831792,
+              33.7710291
+            ]
+          },
+          "properties": {
+            "placeId": "9345c80e-22b3-45ca-bd16-58ed0b962273",
+            "value": 31,
+            "placeName": "The Original J.R. Crickets in Midtown Atlanta",
+            "address": "129 North Avenue NE, Atlanta, GA 30308",
+            "placeType": "Chicken wings restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3875649,
+              33.7858064
+            ]
+          },
+          "properties": {
+            "placeId": "cd0483af-8e6f-497e-92dc-5962b64a321f",
+            "value": 54,
+            "placeName": "McCray's Tavern Midtown",
+            "address": "1163 W Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "New American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3927991,
+              33.7581973
+            ]
+          },
+          "properties": {
+            "placeId": "06777ea4-db78-4e4b-b22a-596e009dd1b2",
+            "value": 76,
+            "placeName": "Park Bar",
+            "address": "150 Walton St NW, Atlanta, GA 30303",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5518056,
+              53.7916884
+            ]
+          },
+          "properties": {
+            "placeId": "74ed9982-f313-4749-9c55-59d70330001a",
+            "value": 25,
+            "placeName": "The Midnight Bell",
+            "address": "101 Water Ln, Holbeck, Leeds LS11 5QN, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3687891,
+              33.7879371
+            ]
+          },
+          "properties": {
+            "placeId": "33624377-fbcb-49c9-8f23-5aac5b87d2ed",
+            "value": 8,
+            "placeName": "Red Light Cafe",
+            "address": "553-1 Amsterdam Ave NE, Atlanta, GA 30306",
+            "placeType": "Live music venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3001303,
+              33.7747521
+            ]
+          },
+          "properties": {
+            "placeId": "2a61d68e-9bb2-4c99-b0f8-5b5ad5f13d74",
+            "value": 45,
+            "placeName": "Inner Voice Brewing",
+            "address": "308 W Ponce de Leon Ave Suite H, Decatur, GA 30030",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2922819,
+              33.771596
+            ]
+          },
+          "properties": {
+            "placeId": "fe5771a8-fae7-4b2a-a49d-5bb424ccfd96",
+            "value": 64,
+            "placeName": "Kimball House",
+            "address": "303 E Howard Ave, Decatur, GA 30030",
+            "placeType": "New American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5434611,
+              53.7942876
+            ]
+          },
+          "properties": {
+            "placeId": "0ad83579-99e0-43f3-95f5-5cfe849ce201",
+            "value": 32,
+            "placeName": "Farrands Bar",
+            "address": "18 Swinegate, Leeds LS1 4AG, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.5488351,
+              33.951857
+            ]
+          },
+          "properties": {
+            "placeId": "bad6e8b3-f6eb-4410-bdf1-5db0c7356967",
+            "value": 12,
+            "placeName": "Johnnie MacCracken's Celtic Firehouse Pub",
+            "address": "15 Atlanta St SE, Marietta, GA 30060",
+            "placeType": "Brewpub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5403467,
+              53.7956105
+            ]
+          },
+          "properties": {
+            "placeId": "0f9e6b6e-a59d-49ad-b4f2-5e4562c98e08",
+            "value": 57,
+            "placeName": "Las Iguanas - Leeds",
+            "address": "Unit 3 Cloth Hall St, Leeds LS1 2HD, United Kingdom",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3824566,
+              33.7833653
+            ]
+          },
+          "properties": {
+            "placeId": "fd8fc913-e09f-4acd-892e-5e473b77829f",
+            "value": 61,
+            "placeName": "Olive Bistro Midtown Meze & Wine Bar",
+            "address": "1050 Juniper St NE #4, Atlanta, GA 30309",
+            "placeType": "Mediterranean restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4293852,
+              33.8038436
+            ]
+          },
+          "properties": {
+            "placeId": "ace932a2-936c-43dd-a470-5e4bf4576356",
+            "value": 37,
+            "placeName": "Dr. Scofflaw's at The Works",
+            "address": "214 Chattahoochee Row NW, Atlanta, GA 30318",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5398036,
+              53.8001102
+            ]
+          },
+          "properties": {
+            "placeId": "10c2fb8d-ea48-44b3-a606-5e5abfbee98f",
+            "value": 5,
+            "placeName": "Santiago Bar",
+            "address": "1-3 Grand Arcade, Leeds LS1 6PG, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5373464,
+              53.7963829
+            ]
+          },
+          "properties": {
+            "placeId": "787ff11f-2eb3-46e4-b8fb-5ef5686aa3b5",
+            "value": 38,
+            "placeName": "Outlaws Yacht Club",
+            "address": "38 New York St, Leeds LS2 7DY, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5482941,
+              53.7988802
+            ]
+          },
+          "properties": {
+            "placeId": "ea4b1a2f-116d-4056-8feb-61e2c9bb3ed0",
+            "value": 28,
+            "placeName": "Below Stairs",
+            "address": "12 S Parade, Leeds LS1 5QS, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3881114,
+              33.7573115
+            ]
+          },
+          "properties": {
+            "placeId": "75aebc8d-3a2f-4f7d-8218-62da062dd146",
+            "value": 16,
+            "placeName": "Vanity Restaurant and Bar",
+            "address": "138 Peachtree St NW, Atlanta, GA 30303",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3459049,
+              33.7409772
+            ]
+          },
+          "properties": {
+            "placeId": "d90f798a-e521-487b-9d99-633e9660ca1b",
+            "value": 27,
+            "placeName": "The EARL",
+            "address": "488 Flat Shoals Ave SE, Atlanta, GA 30316",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5495418,
+              53.8057252
+            ]
+          },
+          "properties": {
+            "placeId": "7e7169d1-b4df-4c5c-898c-6390e05cb189",
+            "value": 21,
+            "placeName": "The Fenton",
+            "address": "161-165 Woodhouse Ln, Woodhouse, Leeds LS2 3ED, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5417664,
+              53.7933534
+            ]
+          },
+          "properties": {
+            "placeId": "dda8373e-9601-4992-a45a-644811bcee26",
+            "value": 59,
+            "placeName": "Bridge End Social",
+            "address": "24-32 Bridge End, Leeds LS1 4DJ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5778136,
+              53.8204051
+            ]
+          },
+          "properties": {
+            "placeId": "5361d767-1326-4bae-b091-64b2fc692e19",
+            "value": 57,
+            "placeName": "Headingley Enterprise & Arts Centre",
+            "address": "Heart Centre, Bennett Rd, Headingley, Leeds LS6 3HN, United Kingdom",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4115332,
+              33.7831991
+            ]
+          },
+          "properties": {
+            "placeId": "3e1fa3f3-1f52-40f3-bbfe-650f9e1d3813",
+            "value": 70,
+            "placeName": "Flight Club Atlanta",
+            "address": "1055 Howell Mill Rd Suite 140, Atlanta, GA 30318",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3626944,
+              33.7743972
+            ]
+          },
+          "properties": {
+            "placeId": "d95665a5-dd32-43c6-a601-652aa00f687b",
+            "value": 24,
+            "placeName": "The Bookhouse Pub",
+            "address": "736 Ponce De Leon Ave NE, Atlanta, GA 30306",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5483843,
+              53.8009298
+            ]
+          },
+          "properties": {
+            "placeId": "e10df9cb-752e-45cc-acbd-6558e8706d2e",
+            "value": 19,
+            "placeName": "Be At One - Millennium Square Leeds",
+            "address": "6, Millennium Square, Leeds LS2 3AD, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3616567,
+              34.0240222
+            ]
+          },
+          "properties": {
+            "placeId": "8a6dd92d-d7d4-4377-9a7c-6602f5dc99c6",
+            "value": 19,
+            "placeName": "Mac McGee",
+            "address": "936 Canton St, Roswell, GA 30076",
+            "placeType": "Irish pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3488881,
+              33.7662776
+            ]
+          },
+          "properties": {
+            "placeId": "1a49c9c8-b1d0-4e83-aac9-66a28a001ae5",
+            "value": 15,
+            "placeName": "The Star Community Bar",
+            "address": "437 Moreland Ave NE, Atlanta, GA 30307",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4119319,
+              33.7859263
+            ]
+          },
+          "properties": {
+            "placeId": "76f8421a-2f76-48b0-a661-67a53ff0a4a0",
+            "value": 21,
+            "placeName": "Ormsby's",
+            "address": "1170 Howell Mill Rd Ste P20, Atlanta, GA 30318",
+            "placeType": "American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3869351,
+              33.7633384
+            ]
+          },
+          "properties": {
+            "placeId": "50f2e17b-967f-49af-91dc-68de8072edf9",
+            "value": 85,
+            "placeName": "Max Lager's Wood-Fired Grill & Brewery",
+            "address": "320 Peachtree Rd NE, Atlanta, GA 30308",
+            "placeType": "American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5462901,
+              53.7954024
+            ]
+          },
+          "properties": {
+            "placeId": "a0363612-3b85-4daf-b777-6be4d3881d89",
+            "value": 20,
+            "placeName": "The Scarbrough Hotel",
+            "address": "Bishopgate St, Leeds LS1 5DY, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3844407,
+              33.7790602
+            ]
+          },
+          "properties": {
+            "placeId": "30b8d808-1b47-40c6-bb95-6c2accf87d7a",
+            "value": 35,
+            "placeName": "The Vortex Bar & Grill",
+            "address": "878 Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3875394,
+              33.7834489
+            ]
+          },
+          "properties": {
+            "placeId": "81246c9d-553b-4d7e-8a8d-6d108d87dd85",
+            "value": 51,
+            "placeName": "The Steamhouse Lounge",
+            "address": "1051 W Peachtree St NW, Atlanta, GA 30309",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5635966,
+              53.8152765
+            ]
+          },
+          "properties": {
+            "placeId": "c11e6772-69dc-4483-909c-6d96b4750fc4",
+            "value": 51,
+            "placeName": "Hyde Park Book Club",
+            "address": "27-29 Headingley Ln., Headingley, Leeds LS6 1BL, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3463317,
+              33.7405484
+            ]
+          },
+          "properties": {
+            "placeId": "b367378a-838f-4272-874f-70985a9c7c7a",
+            "value": 43,
+            "placeName": "Gaja Korean Bar",
+            "address": "491 Flat Shoals Ave SE A, Atlanta, GA 30316",
+            "placeType": "Korean restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3848268,
+              33.7835243
+            ]
+          },
+          "properties": {
+            "placeId": "0e7f17fd-de6b-4878-bc5a-71162702c02e",
+            "value": 76,
+            "placeName": "Bulla Gastrobar",
+            "address": "60 11th St NE, Atlanta, GA 30309",
+            "placeType": "Spanish restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3710166,
+              33.7960463
+            ]
+          },
+          "properties": {
+            "placeId": "de6b14f5-47ea-4f38-a5fd-71e0a88b2fa5",
+            "value": 9,
+            "placeName": "Atlanta Eagle",
+            "address": "1492 Piedmont Ave NE, Atlanta, GA 30309",
+            "placeType": "Gay bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3947758,
+              33.757916
+            ]
+          },
+          "properties": {
+            "placeId": "da6ff857-7de9-4408-83be-74452753d70d",
+            "value": 62,
+            "placeName": "Top Draft Sports Lounge",
+            "address": "190 Marietta St NW, Atlanta, GA 30303",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3785214,
+              33.8379478
+            ]
+          },
+          "properties": {
+            "placeId": "ea84c0e8-5302-4665-9662-746ea763c73d",
+            "value": 33,
+            "placeName": "Fadó Irish Pub",
+            "address": "273 Buckhead Ave NE, Atlanta, GA 30305",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.364239,
+              33.759638
+            ]
+          },
+          "properties": {
+            "placeId": "51476142-9953-462c-a96a-75c660276fd9",
+            "value": 18,
+            "placeName": "Ranger Station",
+            "address": "684 John Wesley Dobbs Ave NE Unit J, Atlanta, GA 30312",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.545224,
+              53.7956343
+            ]
+          },
+          "properties": {
+            "placeId": "e15889cc-86c2-499a-901d-765e12e25861",
+            "value": 25,
+            "placeName": "Slug & Lettuce - Boar Lane Leeds",
+            "address": "24-28 Boar Ln, Leeds LS1 5DA, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3688347,
+              33.7976384
+            ]
+          },
+          "properties": {
+            "placeId": "e42d912a-1b30-453f-bbf9-76a3329512f9",
+            "value": 15,
+            "placeName": "Smith's Olde Bar",
+            "address": "1578 Piedmont Ave NE, Atlanta, GA 30324",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3622781,
+              34.0131017
+            ]
+          },
+          "properties": {
+            "placeId": "3f23d33b-1281-4126-b174-76e58e5a1a42",
+            "value": 9,
+            "placeName": "Chaplins Bar and Grill",
+            "address": "555 S Atlanta St b100, Roswell, GA 30075",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3559832,
+              33.8112765
+            ]
+          },
+          "properties": {
+            "placeId": "3d97a380-23bf-4bcc-abbc-77002f4d1ea4",
+            "value": 9,
+            "placeName": "BJ Roosters",
+            "address": "2043 Cheshire Bridge Rd NE UNIT 1, Atlanta, GA 30324",
+            "placeType": "Gay bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5350025,
+              53.7950638
+            ]
+          },
+          "properties": {
+            "placeId": "810ef389-aa76-40f8-830e-77506a03dec5",
+            "value": 38,
+            "placeName": "The Palace",
+            "address": "Kirkgate, Leeds LS2 7DJ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4165905,
+              33.7760837
+            ]
+          },
+          "properties": {
+            "placeId": "0bab25cd-14b5-4bf5-9fab-78a25c502515",
+            "value": 77,
+            "placeName": "Blue Mark Studios",
+            "address": "892 Jefferson St NW, Atlanta, GA 30318",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3876569,
+              33.8201679
+            ]
+          },
+          "properties": {
+            "placeId": "ce80b2d4-933e-4a52-9087-79c5bc761ec8",
+            "value": 64,
+            "placeName": "Whitehall Tavern",
+            "address": "2391 Peachtree Rd, Atlanta, GA 30305",
+            "placeType": "American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3602092,
+              33.7456843
+            ]
+          },
+          "properties": {
+            "placeId": "7ce2437d-c087-422d-a52c-79e2aef18824",
+            "value": 31,
+            "placeName": "Three Taverns Imaginarium",
+            "address": "777 Memorial Dr SE Suite B103, Atlanta, GA 30316",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5473475,
+              53.7992769
+            ]
+          },
+          "properties": {
+            "placeId": "b00b43cb-46ca-4d26-bad1-7b4b269960f6",
+            "value": 45,
+            "placeName": "Flight Club Leeds",
+            "address": "Sovereign House, 1-2 S Parade, Leeds LS1 5QL, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5758252,
+              53.8195674
+            ]
+          },
+          "properties": {
+            "placeId": "511ea78c-0819-426f-a042-7bc23bb609e8",
+            "value": 17,
+            "placeName": "The Original Oak",
+            "address": "2 Otley Rd, Headingley, Leeds LS6 2DG, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3902021,
+              33.7517895
+            ]
+          },
+          "properties": {
+            "placeId": "df299346-ffda-4ac8-a798-7bd0753c78ba",
+            "value": 20,
+            "placeName": "Kenny's Alley",
+            "address": "50 Upper Alabama St, Atlanta, GA 30303",
+            "placeType": "Plaza"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5404894,
+              53.7970593
+            ]
+          },
+          "properties": {
+            "placeId": "09c5b027-1fba-4152-bc93-7d99cd71d89a",
+            "value": 16,
+            "placeName": "The General Elliot",
+            "address": "31-33 Vicar Ln, Leeds LS1 6DS, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3840009,
+              33.7797074
+            ]
+          },
+          "properties": {
+            "placeId": "5b7a697c-b4de-48cd-a043-7e3a5b73f45b",
+            "value": 44,
+            "placeName": "Fadó Irish Pub",
+            "address": "933 Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3578402,
+              33.7407235
+            ]
+          },
+          "properties": {
+            "placeId": "5c824ed5-b34b-4323-8c59-7e406f6718d2",
+            "value": 14,
+            "placeName": "Vesper Atlanta",
+            "address": "924 Garrett St suite D, Atlanta, GA 30316",
+            "placeType": "Tapas bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.4492109,
+              53.7980718
+            ]
+          },
+          "properties": {
+            "placeId": "08931733-7555-41b3-8cbe-7e62fd48fba0",
+            "value": 32,
+            "placeName": "Bar Tat Sports Bar",
+            "address": "401 Selby Rd, Whitkirk, Leeds LS15 7AX, United Kingdom",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3531162,
+              33.77836
+            ]
+          },
+          "properties": {
+            "placeId": "688d8b0b-f4f4-4309-bd31-8062991b4360",
+            "value": 8,
+            "placeName": "Dad's",
+            "address": "870 North Highland Avenue Northeast, Atlanta, GA 30306",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3450322,
+              33.7400386
+            ]
+          },
+          "properties": {
+            "placeId": "de5c8598-4023-4913-92be-823cd4fbdfcb",
+            "value": 16,
+            "placeName": "Flatiron Bar and Restaurant",
+            "address": "520 Flat Shoals Ave SE, Atlanta, GA 30316",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5594444,
+              53.8
+            ]
+          },
+          "properties": {
+            "placeId": "44b6025a-52c7-4d1b-8969-82a742db5172",
+            "value": 16,
+            "placeName": "The Fox and Newt Pub",
+            "address": "Fox and Newt Pub, 9 Burley St, Leeds LS3 1LD, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3730977,
+              33.8439094
+            ]
+          },
+          "properties": {
+            "placeId": "99d872f1-6cc3-417f-b2d1-82da4854372d",
+            "value": 13,
+            "placeName": "Red Phone Booth - Buckhead",
+            "address": "3242 Peachtree Rd NE, Atlanta, GA 30305",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3838759,
+              33.7835638
+            ]
+          },
+          "properties": {
+            "placeId": "1c47db4d-0431-41e7-994b-83339dac454d",
+            "value": 24,
+            "placeName": "Sugar Factory American Brasserie - Atlanta",
+            "address": "1080 Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5393937,
+              53.7995811
+            ]
+          },
+          "properties": {
+            "placeId": "74d81096-2b26-4553-8b0d-834fb4f1d47b",
+            "value": 20,
+            "placeName": "Little Mommy Thai",
+            "address": "110 Vicar Ln, Leeds LS2 7NL, United Kingdom",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3794833,
+              33.7723413
+            ]
+          },
+          "properties": {
+            "placeId": "71164964-d12f-48bc-827e-84a1d2dda08e",
+            "value": 19,
+            "placeName": "Boogalou Restaurant & Lounge",
+            "address": "239 Ponce De Leon Ave NE, Atlanta, GA 30308",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.486122,
+              33.904332
+            ]
+          },
+          "properties": {
+            "placeId": "d4f5909b-526b-4e93-bb58-86e088b91703",
+            "value": 15,
+            "placeName": "Dixie Tavern",
+            "address": "2349 Windy Hill Rd SE Unit 130, Marietta, GA 30067",
+            "placeType": "Live music bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.544273,
+              53.7957326
+            ]
+          },
+          "properties": {
+            "placeId": "ada23dbe-6c93-4c5f-b4a9-8918b2bd16f6",
+            "value": 9,
+            "placeName": "Be At One - Boar Lane Leeds",
+            "address": "19 Boar Ln, Leeds LS1 6EA, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3616904,
+              33.8320552
+            ]
+          },
+          "properties": {
+            "placeId": "79976b4e-9858-4ec1-a984-8958651182dc",
+            "value": 26,
+            "placeName": "Eclipse di Luna",
+            "address": "764 Miami Cir NE, Atlanta, GA 30324",
+            "placeType": "Tapas restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3858946,
+              33.7627565
+            ]
+          },
+          "properties": {
+            "placeId": "c8e102f3-30d9-41f1-a6a4-8964d60f4c5b",
+            "value": 46,
+            "placeName": "Big Kahuna Atlanta",
+            "address": "303 Peachtree Center Ave NE, Atlanta, GA 30303",
+            "placeType": "Californian restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3113098,
+              33.9235153
+            ]
+          },
+          "properties": {
+            "placeId": "fcf3e51d-ca33-420c-abdc-8b712d2fc9ec",
+            "value": 34,
+            "placeName": "Gilly's Sports Bar",
+            "address": "4343 Dunwoody Park, Atlanta, GA 30338",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6606278,
+              53.731559
+            ]
+          },
+          "properties": {
+            "placeId": "bf4a3a7d-d017-43f6-a54a-8b9c5bb20def",
+            "value": 16,
+            "placeName": "The Venue Birstall",
+            "address": "Market St., Birstall, Batley WF17 9EN, United Kingdom",
+            "placeType": "Function room facility"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5551744,
+              53.7968616
+            ]
+          },
+          "properties": {
+            "placeId": "a2f0cef4-129c-4d70-84be-8bbe71d780cc",
+            "value": 55,
+            "placeName": "Editor's Draught",
+            "address": "88 Wellington St, Leeds LS1 4LT, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5528485,
+              53.8145346
+            ]
+          },
+          "properties": {
+            "placeId": "bc3120ed-2c1a-45aa-8c16-8d8c73813b32",
+            "value": 36,
+            "placeName": "The Chemic Tavern",
+            "address": "9 Johnston St, Headingley, Leeds LS6 2NG, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3962936,
+              33.7615127
+            ]
+          },
+          "properties": {
+            "placeId": "42ed8ae2-9a48-4296-aaf1-8dd287bcd5e0",
+            "value": 46,
+            "placeName": "STATS Brewpub",
+            "address": "300 Marietta St NW Suite 101, Atlanta, GA 30313",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3577394,
+              33.7548812
+            ]
+          },
+          "properties": {
+            "placeId": "5f880d03-d633-4e2d-9c12-8e6b82bc027a",
+            "value": 41,
+            "placeName": "LLoyd's Restaurant & Lounge",
+            "address": "900 DeKalb Ave NE, Atlanta, GA 30307",
+            "placeType": "Pizza restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.471517,
+              33.617017
+            ]
+          },
+          "properties": {
+            "placeId": "779854dc-afc0-4869-8290-8f232bd65b6b",
+            "value": 4,
+            "placeName": "Backstage Atlanta",
+            "address": "2505 Godby Rd, Atlanta, GA 30349",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3655967,
+              33.7727683
+            ]
+          },
+          "properties": {
+            "placeId": "50434e3f-6cce-4a5d-a806-8fe4b123a310",
+            "value": 42,
+            "placeName": "Ponce City Market",
+            "address": "675 Ponce De Leon Ave NE, Atlanta, GA 30308",
+            "placeType": "Shopping mall"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.541941,
+              53.783562
+            ]
+          },
+          "properties": {
+            "placeId": "a28e4e70-7ee7-4f12-b85c-8fe551207e17",
+            "value": 30,
+            "placeName": "Eiger Music Studios",
+            "address": "Fairfield House, New Craven Gate, Leeds LS11 5NF, United Kingdom",
+            "placeType": "Rehearsal studio"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5427094,
+              53.794641
+            ]
+          },
+          "properties": {
+            "placeId": "4d834139-a4f9-44a4-ad24-90363f17dd5e",
+            "value": 4,
+            "placeName": "Blayd's Bar",
+            "address": "3-7 Blayds Yard, Leeds LS1 4AD, United Kingdom",
+            "placeType": "Gay bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3450322,
+              33.7400386
+            ]
+          },
+          "properties": {
+            "placeId": "300cfdc7-0828-40dc-991b-90deef7ecbd8",
+            "value": 15,
+            "placeName": "Trophy Room",
+            "address": "520 Flat Shoals Ave SE, Atlanta, GA 30316",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.1434643,
+              33.9702766
+            ]
+          },
+          "properties": {
+            "placeId": "1b8eeee8-55f4-41aa-a547-91ed3126c652",
+            "value": 14,
+            "placeName": "Do Re Mi Karaoke",
+            "address": "2550 Pleasant Hill Rd Suite #206, Duluth, GA 30096",
+            "placeType": "Karaoke bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5423157,
+              53.7950962
+            ]
+          },
+          "properties": {
+            "placeId": "e07dae21-adba-4a72-8bac-924b31a4bfc2",
+            "value": 11,
+            "placeName": "Fibre Leeds",
+            "address": "168 Lower Briggate, Leeds LS1 6LY, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4305744,
+              33.8036652
+            ]
+          },
+          "properties": {
+            "placeId": "94d63186-03e4-41c5-9499-9329191a9fae",
+            "value": 18,
+            "placeName": "Your 3rd Spot",
+            "address": "400 Chattahoochee Row NW, Atlanta, GA 30318",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.540219,
+              53.800491
+            ]
+          },
+          "properties": {
+            "placeId": "0e5e1221-1498-4cdb-a98d-9409733b692f",
+            "value": 32,
+            "placeName": "Verve",
+            "address": "16 Merrion St, Leeds LS1 6PQ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5497969,
+              53.7934969
+            ]
+          },
+          "properties": {
+            "placeId": "075783eb-672f-4b60-938b-95ca357330ab",
+            "value": 16,
+            "placeName": "Sky Lounge",
+            "address": "Granary Wharf, Leeds LS1 4BR, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.380685,
+              33.8378564
+            ]
+          },
+          "properties": {
+            "placeId": "6d09dcb9-403e-4150-acf3-96a372cfd0c7",
+            "value": 54,
+            "placeName": "The Southern Gentleman",
+            "address": "3035 Peachtree Rd NE A208, Atlanta, GA 30305",
+            "placeType": "American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3821205,
+              33.7869913
+            ]
+          },
+          "properties": {
+            "placeId": "e2347abf-711f-4afe-b366-977008216400",
+            "value": 35,
+            "placeName": "Establishment",
+            "address": "1197 Peachtree St NE Suite 517, Atlanta, GA 30305",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3750127,
+              33.8393655
+            ]
+          },
+          "properties": {
+            "placeId": "ae899f31-ca9c-4765-9e46-97b00bb502b8",
+            "value": 46,
+            "placeName": "St. Julep",
+            "address": "374 East Paces Ferry Rd NE, Atlanta, GA 30305",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5447938,
+              53.7977704
+            ]
+          },
+          "properties": {
+            "placeId": "db9672ad-e3d0-492d-b0e3-9826ad48cac3",
+            "value": 31,
+            "placeName": "The New Conservatory",
+            "address": "Albion Pl, Leeds LS1 6JL, United Kingdom",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5409277,
+              53.7954337
+            ]
+          },
+          "properties": {
+            "placeId": "bb0399f0-8c28-42a6-97bd-999e64038df7",
+            "value": 7,
+            "placeName": "Cuckoo",
+            "address": "37 Call Ln, Leeds LS1 7BT, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5448281,
+              53.7959435
+            ]
+          },
+          "properties": {
+            "placeId": "c172e260-57a4-4c34-bda6-9b5e75aba2ad",
+            "value": 26,
+            "placeName": "Roxy Ball Room Leeds Boar Lane",
+            "address": "58 Boar Ln, Leeds LS1 6HW, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3877951,
+              33.7620443
+            ]
+          },
+          "properties": {
+            "placeId": "08c9c505-4d7a-4bce-acfd-9bc0b28dffda",
+            "value": 82,
+            "placeName": "White Oak Kitchen & Cocktails",
+            "address": "270 Peachtree St NW #100, Atlanta, GA 30303",
+            "placeType": "Fine dining restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4235854,
+              33.7887146
+            ]
+          },
+          "properties": {
+            "placeId": "6b91a321-9940-4ae9-b793-9c7482026e59",
+            "value": 2,
+            "placeName": "42West Entertainment Group",
+            "address": "1088 Huff Rd NW, Atlanta, GA 30318",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.37927,
+              33.7723112
+            ]
+          },
+          "properties": {
+            "placeId": "f5cd24ff-96f4-4e14-8430-9d101b58a84c",
+            "value": 71,
+            "placeName": "Torched Hop Brewing Company",
+            "address": "249 Ponce De Leon Ave NE, Atlanta, GA 30308",
+            "placeType": "Brewpub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3874931,
+              33.7796863
+            ]
+          },
+          "properties": {
+            "placeId": "c33580e3-5e52-453d-aebd-9d58b2d26e02",
+            "value": 56,
+            "placeName": "Marlow's Tavern",
+            "address": "950 W Peachtree St NW #215, Atlanta, GA 30309",
+            "placeType": "New American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5850725,
+              53.7891934
+            ]
+          },
+          "properties": {
+            "placeId": "98514eff-52b4-4fcc-8acf-9e34b1078b3b",
+            "value": 53,
+            "placeName": "Asda Wortley Oldfield Lane Supermarket",
+            "address": "Oldfield Ln, Wortley, Leeds LS12 4BP, United Kingdom",
+            "placeType": "Supermarket"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5393252,
+              53.8001028
+            ]
+          },
+          "properties": {
+            "placeId": "3afb99e8-25c0-46b5-8b8b-9e4e03021894",
+            "value": 23,
+            "placeName": "Templar",
+            "address": "Templar St, Leeds LS2 7NU, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.29851,
+              33.9192386
+            ]
+          },
+          "properties": {
+            "placeId": "b220c5c5-448f-48f0-8b54-9f745437f3ff",
+            "value": 18,
+            "placeName": "Cajun Blues | Cajun Seafood & Live music in Chamblee, GA",
+            "address": "2197 Savoy Dr, Chamblee, GA 30341",
+            "placeType": "Seafood restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5424902,
+              53.7982137
+            ]
+          },
+          "properties": {
+            "placeId": "668f1d71-9a2b-4623-9233-a07754a91524",
+            "value": 30,
+            "placeName": "The Ship Inn",
+            "address": "Queens Arcade, 71 Briggate, Leeds LS1 6LH, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5426496,
+              53.7950431
+            ]
+          },
+          "properties": {
+            "placeId": "255beb57-d91f-4157-a949-a2c1338d9ed3",
+            "value": 7,
+            "placeName": "Viaduct Showbar",
+            "address": "11 Lower Briggate, Leeds LS1 6ER, United Kingdom",
+            "placeType": "Gay bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5403075,
+              53.8005017
+            ]
+          },
+          "properties": {
+            "placeId": "83dd0d55-4ec8-4ad9-abc5-a2f820b112a3",
+            "value": 4,
+            "placeName": "MOJO",
+            "address": "18 Merrion St, Leeds LS1 6PQ, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5465728,
+              53.7976339
+            ]
+          },
+          "properties": {
+            "placeId": "1661df58-07e8-402c-a9f8-a3d7a6bd28fc",
+            "value": 27,
+            "placeName": "The Head of Steam Leeds - Park Row",
+            "address": "6 Park Row, Leeds LS1 5QL, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5475992,
+              53.7984786
+            ]
+          },
+          "properties": {
+            "placeId": "b0c306ce-3b99-4cf2-87b9-a608ddb6c923",
+            "value": 8,
+            "placeName": "Be At One - Greek Street Leeds",
+            "address": "5-7 Greek St, Leeds LS1 5RW, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3849071,
+              33.7743893
+            ]
+          },
+          "properties": {
+            "placeId": "1d20cc65-ac99-4fc0-af7b-a617943ce53a",
+            "value": 70,
+            "placeName": "El Viñedo Local",
+            "address": "730 Peachtree St NE #100, Atlanta, GA 30308",
+            "placeType": "South American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5290874,
+              53.8030507
+            ]
+          },
+          "properties": {
+            "placeId": "cb8c309b-76e7-4f79-a227-a6bc1435c1d0",
+            "value": 97,
+            "placeName": "The Dance Studio Leeds",
+            "address": "First Floor, Mabgate mills, Mill 6, Macaulay St, Leeds LS9 7SW, United Kingdom",
+            "placeType": "Dance school"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3667254,
+              33.7718668
+            ]
+          },
+          "properties": {
+            "placeId": "bcdfa0b1-f4b8-4b27-83a4-a74ab33953df",
+            "value": 43,
+            "placeName": "SEPHORA",
+            "address": "650 North Avenue NE Space #S104, Atlanta, GA 30308",
+            "placeType": "Cosmetics store"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3845593,
+              33.772434
+            ]
+          },
+          "properties": {
+            "placeId": "0cf2e9ab-8b8c-48bc-999f-a75dae836ebf",
+            "value": 45,
+            "placeName": "Edgar's Proof & Provision",
+            "address": "659 Peachtree Rd NE, Atlanta, GA 30308",
+            "placeType": "Gastropub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3648842,
+              33.756209
+            ]
+          },
+          "properties": {
+            "placeId": "3d7474a1-9320-4cb6-9fba-a86a94c489b0",
+            "value": 39,
+            "placeName": "Brewdog Atlanta",
+            "address": "112 Krog St NE, Atlanta, GA 30307",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5543076,
+              53.7953626
+            ]
+          },
+          "properties": {
+            "placeId": "ab191a09-6f59-4cae-abe2-a87ff0478e31",
+            "value": 52,
+            "placeName": "Hoist House",
+            "address": "5 Wellington Pl, Whitehall Rd, Leeds LS1 4AP, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3495298,
+              33.7520098
+            ]
+          },
+          "properties": {
+            "placeId": "8578df16-e7f5-4651-aaf4-ab4747e360e7",
+            "value": 45,
+            "placeName": "Wylie & Rum Island Bar and Grill",
+            "address": "45 Moreland Ave SE Suite 200, Atlanta, GA 30316",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.402944,
+              33.7933923
+            ]
+          },
+          "properties": {
+            "placeId": "706972d9-5a66-4222-8e17-ab77e3e6a737",
+            "value": 35,
+            "placeName": "Elleven Event Space",
+            "address": "451-B Bishop St NW, Atlanta, GA 30318",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.570367,
+              53.8361598
+            ]
+          },
+          "properties": {
+            "placeId": "4ff345e1-5ea1-456f-a1e1-ac27bf647cc9",
+            "value": 30,
+            "placeName": "Myrtle Tavern",
+            "address": "Parkside Rd, Meanwood, Leeds LS6 4NE, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5408907,
+              53.7988673
+            ]
+          },
+          "properties": {
+            "placeId": "8a31346a-32ff-4e97-a9c1-ac8b3bd1c016",
+            "value": 35,
+            "placeName": "House of Fu",
+            "address": "15-19 The Headrow, Leeds LS1 6PU, United Kingdom",
+            "placeType": "Ramen restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4120483,
+              33.7836386
+            ]
+          },
+          "properties": {
+            "placeId": "cc435558-36ff-442c-9aec-ad8a6458df96",
+            "value": 17,
+            "placeName": "Northside Tavern",
+            "address": "1058 Howell Mill Rd NW, Atlanta, GA 30318",
+            "placeType": "Live music bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3619644,
+              33.7689733
+            ]
+          },
+          "properties": {
+            "placeId": "c0f7c4ea-000d-4039-a3de-ade0ccf99688",
+            "value": 33,
+            "placeName": "New Realm Brewing Co.",
+            "address": "550 Somerset Terrace NE #101, Atlanta, GA 30306",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3692889,
+              33.7822253
+            ]
+          },
+          "properties": {
+            "placeId": "a933626c-5b3f-401a-b77d-ae3593355087",
+            "value": 40,
+            "placeName": "Park Tavern",
+            "address": "500 10th St NE, Atlanta, GA 30309",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3839319,
+              33.7806276
+            ]
+          },
+          "properties": {
+            "placeId": "73f158d4-8063-4f9d-85b9-af75e8ab40ef",
+            "value": 15,
+            "placeName": "Taco Mac Metropolis",
+            "address": "933 Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3441772,
+              33.7394433
+            ]
+          },
+          "properties": {
+            "placeId": "ec87a468-9b76-4948-b35d-af8914abea5c",
+            "value": 44,
+            "placeName": "The Midway Pub",
+            "address": "552 Flat Shoals Ave SE, Atlanta, GA 30316",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.550465,
+              33.954855
+            ]
+          },
+          "properties": {
+            "placeId": "186b5253-bde1-48f8-b7cc-aff7fbca0691",
+            "value": 18,
+            "placeName": "The Third Door",
+            "address": "131 Church St, Marietta, GA 30060",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5534838,
+              53.7955313
+            ]
+          },
+          "properties": {
+            "placeId": "725e105a-7bc8-4858-af7f-b174b7494026",
+            "value": 24,
+            "placeName": "The Whitehall Restaurant & Bar",
+            "address": "West Point, Whitehall Rd, Leeds LS1 4JY, United Kingdom",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3843203,
+              33.7804666
+            ]
+          },
+          "properties": {
+            "placeId": "5ca85479-11db-4f3b-80af-b3c3c69b1f1e",
+            "value": 36,
+            "placeName": "Hudson Grille Midtown",
+            "address": "942 Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3869147,
+              33.7595884
+            ]
+          },
+          "properties": {
+            "placeId": "a82d5596-2965-447c-bacc-b469b336fcce",
+            "value": 63,
+            "placeName": "Red Phone Booth - Downtown Atlanta",
+            "address": "17 Andrew Young International Blvd NE, Atlanta, GA 30303",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3653774,
+              33.7564342
+            ]
+          },
+          "properties": {
+            "placeId": "cb213ff9-299a-4ad9-8dbb-b485a8703971",
+            "value": 15,
+            "placeName": "The James Room",
+            "address": "661 Auburn Ave NE STE 280, Atlanta, GA 30312",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3681286,
+              33.7184524
+            ]
+          },
+          "properties": {
+            "placeId": "80c8a382-6127-4686-9de8-b48df7e51edf",
+            "value": 100,
+            "placeName": "Red's Beer Garden",
+            "address": "1328 Boulevard SE, Atlanta, GA 30315",
+            "placeType": "Beer garden"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.545051,
+              53.7954418
+            ]
+          },
+          "properties": {
+            "placeId": "57a39bee-4db2-4a92-a8aa-b537430771f4",
+            "value": 51,
+            "placeName": "Friends of Ham",
+            "address": "4-8 New Station St, Leeds LS1 5DL, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4180884,
+              33.7291508
+            ]
+          },
+          "properties": {
+            "placeId": "5516b4b5-a8fb-48f9-9673-b5f4780e75ff",
+            "value": 32,
+            "placeName": "Monday Night Brewing - The Garage",
+            "address": "933 Lee St SW, Atlanta, GA 30310",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3878839,
+              33.7586181
+            ]
+          },
+          "properties": {
+            "placeId": "2613239f-64a5-46d1-a953-b662b88c9cd0",
+            "value": 41,
+            "placeName": "Sweet Georgia's Juke Joint",
+            "address": "Sweet Georgia Juke Joint, 200 Peachtree St L05, Atlanta, GA 30303",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3958761,
+              33.7648889
+            ]
+          },
+          "properties": {
+            "placeId": "97683f67-7da1-449b-be0f-b6df588e9388",
+            "value": 4,
+            "placeName": "Suite Food Lounge",
+            "address": "375 Luckie St NW, Atlanta, GA 30313",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5677964,
+              53.8115979
+            ]
+          },
+          "properties": {
+            "placeId": "25ff0660-8345-4fc6-9fa1-b7b00de32f2a",
+            "value": 11,
+            "placeName": "The East Village",
+            "address": "47-49 Brudenell Grove, Leeds LS6 1HR, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.549399,
+              53.799234
+            ]
+          },
+          "properties": {
+            "placeId": "981cb8bd-662e-444e-af51-b98fa9894361",
+            "value": 64,
+            "placeName": "Ibérica Leeds",
+            "address": "Hepper House, 17a E Parade, Leeds LS1 2BH, United Kingdom",
+            "placeType": "Spanish restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3722854,
+              33.7544083
+            ]
+          },
+          "properties": {
+            "placeId": "d29125a1-255f-42e2-a881-b9b9ecfc0292",
+            "value": 8,
+            "placeName": "Sister Louisa's Church of the Living Room & Ping Pong Emporium",
+            "address": "466 Edgewood Ave SE, Atlanta, GA 30312",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2785105,
+              33.7749642
+            ]
+          },
+          "properties": {
+            "placeId": "3daf57d7-f36c-4966-b8b8-b9cb03cfc3f8",
+            "value": 50,
+            "placeName": "Anansi Cocktail Lounge",
+            "address": "2700 E College Ave Suite 4000, Decatur, GA 30030",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3542944,
+              33.7830056
+            ]
+          },
+          "properties": {
+            "placeId": "a4ba5c58-f79d-429e-8d7c-bc146fa38563",
+            "value": 76,
+            "placeName": "George's Bar & Restaurant",
+            "address": "1041 North Highland Avenue Northeast, Atlanta, GA 30306",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3862048,
+              33.7603573
+            ]
+          },
+          "properties": {
+            "placeId": "4a416de9-4526-4b56-a5e7-bd1aae1d0ca7",
+            "value": 38,
+            "placeName": "Gibney's Pub",
+            "address": "231 Peachtree Center Ave NE, Atlanta, GA 30303",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2858245,
+              33.7731953
+            ]
+          },
+          "properties": {
+            "placeId": "5f07aa05-6399-4733-8834-bd4e8a216cd0",
+            "value": 49,
+            "placeName": "The Corner Pub",
+            "address": "627 E College Ave, Decatur, GA 30030",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5408932,
+              53.7955956
+            ]
+          },
+          "properties": {
+            "placeId": "a395d3bb-f9c9-4422-a9e7-be95d7ea9a1d",
+            "value": 11,
+            "placeName": "Oporto",
+            "address": "33 Call Ln, Leeds LS1 7BT, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5421177,
+              53.7947648
+            ]
+          },
+          "properties": {
+            "placeId": "9173cc30-a2da-463d-aef2-bf2afa5710ea",
+            "value": 15,
+            "placeName": "Revolución de Cuba Leeds",
+            "address": "64-68 Call Ln, Leeds LS1 6DT, United Kingdom",
+            "placeType": "Cuban restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.468615,
+              33.8810254
+            ]
+          },
+          "properties": {
+            "placeId": "7e11c20c-f44b-4033-94dc-bf39a2cb826c",
+            "value": 41,
+            "placeName": "P.F. Chang's",
+            "address": "1624 Cumberland Mall Suite LS108 Ste LS108, Atlanta, GA 30339",
+            "placeType": "Chinese restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3590633,
+              33.7622665
+            ]
+          },
+          "properties": {
+            "placeId": "e1a0ca61-44c9-4b3b-aad5-c184a0d981f3",
+            "value": 21,
+            "placeName": "Little Spirit",
+            "address": "299 North Highland Avenue Northeast r3, Atlanta, GA 30307",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3875239,
+              33.7781729
+            ]
+          },
+          "properties": {
+            "placeId": "9ba80727-60bc-4fc9-ab8e-c22f1bd9a8f7",
+            "value": 65,
+            "placeName": "Rowdy Tiger Whiskey Bar & Kitchen",
+            "address": "866 W Peachtree St NW, Atlanta, GA 30308",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5420638,
+              53.7944672
+            ]
+          },
+          "properties": {
+            "placeId": "3dc3601d-3596-4372-bee0-c3c5a8510ccd",
+            "value": 25,
+            "placeName": "The Bridge Bar",
+            "address": "1-5 Bridge End, Leeds LS1 7HG, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5494672,
+              53.7936711
+            ]
+          },
+          "properties": {
+            "placeId": "5a499392-7421-44e6-9991-c3e05715448d",
+            "value": 29,
+            "placeName": "Archie's Bar & Kitchen",
+            "address": "Granary Wharf, Arches V & W, The Dark Arches Dark, Neville St, Leeds LS1 4BR, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3808785,
+              33.8577533
+            ]
+          },
+          "properties": {
+            "placeId": "c0e4411e-3d8f-4fd7-b23b-c6564d438ec5",
+            "value": 6,
+            "placeName": "Johnny's Hideaway",
+            "address": "3771 Roswell Rd NE, Atlanta, GA 30342",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.385576,
+              33.7510338
+            ]
+          },
+          "properties": {
+            "placeId": "83e064e6-28c7-4eda-92e9-c7cbf67c0448",
+            "value": 16,
+            "placeName": "Waffle House",
+            "address": "100 Piedmont Ave SE, Atlanta, GA 30303",
+            "placeType": "Breakfast restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3876652,
+              33.7569763
+            ]
+          },
+          "properties": {
+            "placeId": "6ce5cb35-bc1f-4449-876b-c80604a911f2",
+            "value": 100,
+            "placeName": "By George restaurant and bar",
+            "address": "127 Peachtree Rd NE, Atlanta, GA 30303",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5462897,
+              53.7979558
+            ]
+          },
+          "properties": {
+            "placeId": "b1a1fd94-2202-4b35-9bb3-c821fc865a93",
+            "value": 54,
+            "placeName": "Pinnacle Sports & Games",
+            "address": "1 Bond St, Leeds LS1 5BQ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3736742,
+              33.7542009
+            ]
+          },
+          "properties": {
+            "placeId": "3ae6e3c0-1114-441d-b1e3-c8be03829ef8",
+            "value": 12,
+            "placeName": "Joystick Gamebar",
+            "address": "427 Edgewood Ave SE, Atlanta, GA 30312",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5416872,
+              53.7994845
+            ]
+          },
+          "properties": {
+            "placeId": "a693042e-3587-435f-b2dd-ca0bb1588c7f",
+            "value": 21,
+            "placeName": "Sela Bar",
+            "address": "20 New Briggate, Leeds LS1 6NU, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.547918,
+              53.796787
+            ]
+          },
+          "properties": {
+            "placeId": "f0598873-6112-48b1-a1fb-ca87506b3de6",
+            "value": 26,
+            "placeName": "Banyan Bar & Kitchen - Leeds",
+            "address": "2 City Square, Leeds LS1 2ES, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6068085,
+              53.8336359
+            ]
+          },
+          "properties": {
+            "placeId": "30d7247e-94c6-4fd2-a4d6-ca876f0b521a",
+            "value": 64,
+            "placeName": "The Dalesman Hotel",
+            "address": "Old Farm Approach, Butcher Hill, Leeds LS16 5EA, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5408919,
+              53.7957008
+            ]
+          },
+          "properties": {
+            "placeId": "ba2a9b6f-6ed9-4660-865f-cada22ec4614",
+            "value": 15,
+            "placeName": "Jake's Bar & Still Room",
+            "address": "29 Call Ln, Leeds LS1 7BT, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.2727127,
+              33.7776751
+            ]
+          },
+          "properties": {
+            "placeId": "bdc6184b-18a4-44ce-b5a9-cb72e0a1cf99",
+            "value": 30,
+            "placeName": "The Lost Druid Brewery & Distillery",
+            "address": "2866 Washington St, Avondale Estates, GA 30002",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5825838,
+              53.8065024
+            ]
+          },
+          "properties": {
+            "placeId": "80501b40-803b-4f40-86e1-cc6aacea12fc",
+            "value": 53,
+            "placeName": "Cardigan Arms",
+            "address": "364 Kirkstall Rd, Burley, Leeds LS4 2HQ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6358099,
+              53.8413473
+            ]
+          },
+          "properties": {
+            "placeId": "a92c6837-4b95-4709-8bd6-cce43f29eead",
+            "value": 15,
+            "placeName": "The Malt Brewhouse",
+            "address": "166 Town St, Horsforth, Leeds LS18 4AQ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3663246,
+              33.8477648
+            ]
+          },
+          "properties": {
+            "placeId": "4585dcc2-a59d-4275-965d-cd34437d9818",
+            "value": 10,
+            "placeName": "Rosé and Rye",
+            "address": "3377 Peachtree Rd NE, Atlanta, GA 30326",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5377195,
+              53.7961642
+            ]
+          },
+          "properties": {
+            "placeId": "47aa67e5-b88a-4043-96eb-ce1a971fb6d5",
+            "value": 45,
+            "placeName": "Crowd of Favours",
+            "address": "4-12 Harper St, Leeds LS2 7EA, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.5342312,
+              33.8715073
+            ]
+          },
+          "properties": {
+            "placeId": "23d07c9a-bbe7-4dd1-90f5-cf24f4894e2a",
+            "value": 11,
+            "placeName": "The Little Cottage",
+            "address": "652 Concord Rd SE, Smyrna, GA 30082",
+            "placeType": "Wedding venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5385166,
+              53.794655
+            ]
+          },
+          "properties": {
+            "placeId": "9818818b-2b5e-417b-8b8b-cf3e2bff7a42",
+            "value": 16,
+            "placeName": "SALT Calls Landing",
+            "address": "36-38 The Calls, Leeds LS2 7EW, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5840076,
+              53.8067107
+            ]
+          },
+          "properties": {
+            "placeId": "ad1c42bc-64a7-4f5a-b32e-cf4ad2e3fdef",
+            "value": 31,
+            "placeName": "S & R Jaffry Premier Convenience Store",
+            "address": "337-339 Kirkstall Rd, Burley, Leeds LS4 2HD, United Kingdom",
+            "placeType": "Convenience store"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5479323,
+              53.7935984
+            ]
+          },
+          "properties": {
+            "placeId": "6bb17e4e-3724-486f-9de4-cf5ff138aa64",
+            "value": 6,
+            "placeName": "Canal Club",
+            "address": "Unit 1, & 2, Little Neville St, Leeds LS1 4ED, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3827642,
+              33.7840453
+            ]
+          },
+          "properties": {
+            "placeId": "fff9b91b-076c-4cac-a1b3-d0b4bcd71c8f",
+            "value": 67,
+            "placeName": "STK Steakhouse",
+            "address": "1075 Peachtree St NE, Atlanta, GA 30309",
+            "placeType": "Steak house"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3676036,
+              33.8239476
+            ]
+          },
+          "properties": {
+            "placeId": "c9420233-ac25-47bb-a47d-d12b493f0e12",
+            "value": 2,
+            "placeName": "Vision Restaurant and Rooftop",
+            "address": "2520 Piedmont Rd NE, Atlanta, GA 30324",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3873043,
+              33.7590563
+            ]
+          },
+          "properties": {
+            "placeId": "34edf2a3-0ac4-4d52-96af-d193c60475d5",
+            "value": 41,
+            "placeName": "Commerce Club ATL",
+            "address": "191 Peachtree St 49th Floor, Atlanta, GA 30303",
+            "placeType": "Social club"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4697523,
+              33.8885597
+            ]
+          },
+          "properties": {
+            "placeId": "59f2503e-3f0a-466c-ab79-d21369a369be",
+            "value": 34,
+            "placeName": "Fat Tuesday The Battery Atlanta",
+            "address": "800 Battery Ave SE Unit 864, Atlanta, GA 30339",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5819835,
+              53.7837672
+            ]
+          },
+          "properties": {
+            "placeId": "7d9ec290-b305-4057-a85c-d46a02cbab43",
+            "value": 31,
+            "placeName": "The Dragon",
+            "address": "150 Whitehall Rd, Holbeck, Leeds LS12 4TJ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5410135,
+              53.8008101
+            ]
+          },
+          "properties": {
+            "placeId": "602a4d12-2d31-4095-94ec-d477c7708c79",
+            "value": 23,
+            "placeName": "Belgrave Music Hall & Canteen",
+            "address": "Cross Belgrave St, Leeds LS2 8JP, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4698483,
+              33.889048
+            ]
+          },
+          "properties": {
+            "placeId": "db4ee7b0-629b-4a29-b467-d48c0ce5a404",
+            "value": 43,
+            "placeName": "Punch Bowl Social",
+            "address": "875 Battery Ave SE Ste 720, Atlanta, GA 30339",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4193695,
+              33.7304904
+            ]
+          },
+          "properties": {
+            "placeId": "6a3d6af8-4f17-4fe8-a165-d5c0d83d0517",
+            "value": 67,
+            "placeName": "Wild Heaven Beer: West End Brewery & Gardens",
+            "address": "1010 White St SW, Atlanta, GA 30310",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4170329,
+              33.754971
+            ]
+          },
+          "properties": {
+            "placeId": "5166993b-e20f-4469-a8d3-d6a5f7f644d1",
+            "value": 52,
+            "placeName": "Pregame Bar & Grill",
+            "address": "899 M.L.K. Jr Dr NW, Atlanta, GA 30314",
+            "placeType": "Bar & grill"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5469178,
+              53.8002382
+            ]
+          },
+          "properties": {
+            "placeId": "7b6ad229-0ded-4fe9-9f62-d837cd908ded",
+            "value": 27,
+            "placeName": "Yorkshire Wine School",
+            "address": "1, The Light the Headrow, Leeds LS1 8TL, United Kingdom",
+            "placeType": "Wine bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.5322815,
+              33.8725382
+            ]
+          },
+          "properties": {
+            "placeId": "d263f410-af76-4314-97cd-d98cea7d0cf0",
+            "value": 19,
+            "placeName": "Red and Terry's Timbers",
+            "address": "730 Concord Rd SE, Smyrna, GA 30082",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3929901,
+              33.7569866
+            ]
+          },
+          "properties": {
+            "placeId": "8495cb46-f3af-4d8d-927e-daa025b7851a",
+            "value": 23,
+            "placeName": "SkyLounge",
+            "address": "The Glenn, 110 Marietta St NW, Atlanta, GA 30303",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5459578,
+              53.8000841
+            ]
+          },
+          "properties": {
+            "placeId": "5b5ca109-6970-4796-821a-db6dce34c7d7",
+            "value": 11,
+            "placeName": "Haute Dolci Leeds",
+            "address": "Haute Dolci Unti 20A The Light, The Headrow, Leeds LS1 8TL, United Kingdom",
+            "placeType": "Dessert restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5701618,
+              53.8191153
+            ]
+          },
+          "properties": {
+            "placeId": "d8e1a524-862c-4260-b320-dbc1c765b8d2",
+            "value": 36,
+            "placeName": "Hinsley Hall",
+            "address": "62 Headingley Ln., Headingley, Leeds LS6 2BX, United Kingdom",
+            "placeType": "Conference center"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.570057,
+              53.8103015
+            ]
+          },
+          "properties": {
+            "placeId": "dce13edb-42f5-4220-bc7b-dcd85e27d03f",
+            "value": 46,
+            "placeName": "Royal Park Pub & Cellars",
+            "address": "39 Queen's Rd, Burley, Leeds LS6 1NY, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5427446,
+              53.7989158
+            ]
+          },
+          "properties": {
+            "placeId": "57c21a2f-f302-44f3-8e9e-ddba317007a3",
+            "value": 43,
+            "placeName": "The White Swan",
+            "address": "5 Swan St, Leeds LS1 6LG, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4686038,
+              33.8893017
+            ]
+          },
+          "properties": {
+            "placeId": "a1426f07-f739-404f-b962-dfaaf587b2e4",
+            "value": 62,
+            "placeName": "Garden & Gun Club",
+            "address": "2605 Circle 75 Pkwy #410, Atlanta, GA 30339",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4266667,
+              33.8021964
+            ]
+          },
+          "properties": {
+            "placeId": "32c291d7-61db-486a-8e8e-dffd9e4c610c",
+            "value": 50,
+            "placeName": "Bold Monk Brewing Co.",
+            "address": "1737 Ellsworth Industrial Blvd NW suite d-1, Atlanta, GA 30318",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3801434,
+              33.8414694
+            ]
+          },
+          "properties": {
+            "placeId": "56c93ceb-e66f-4b64-9018-e01f3c398720",
+            "value": 25,
+            "placeName": "Five Paces Inn",
+            "address": "41 Irby Ave NW, Atlanta, GA 30305",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3898188,
+              33.7568101
+            ]
+          },
+          "properties": {
+            "placeId": "cd279cbb-4192-4eae-9e38-e022093b6cfe",
+            "value": 14,
+            "placeName": "Sidebar",
+            "address": "79 Poplar St NW, Atlanta, GA 30303",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.6481939,
+              53.8074334
+            ]
+          },
+          "properties": {
+            "placeId": "086d6bed-b43d-47cf-b4c3-e02cc52a0fcc",
+            "value": 36,
+            "placeName": "AGAINST THE GRAIN BAR BRAMLEY",
+            "address": "Swinnow Grange Mills, Stanningley Rd, Bramley, Leeds LS13 4EP, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.5162465,
+              33.8843436
+            ]
+          },
+          "properties": {
+            "placeId": "8a9d561f-92d8-45e5-996b-e0ac9f8c89c2",
+            "value": 12,
+            "placeName": "Smyrna Village Bourbon & Cigar",
+            "address": "1295 W Spring St Ste 130, Smyrna, GA 30080",
+            "placeType": "Cigar shop"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3631701,
+              33.7740126
+            ]
+          },
+          "properties": {
+            "placeId": "9c659b7f-9331-4fdf-adbb-e0f59e3eedeb",
+            "value": 23,
+            "placeName": "Friends on Ponce",
+            "address": "736 Ponce De Leon Ave NE, Atlanta, GA 30306",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5467561,
+              53.7959387
+            ]
+          },
+          "properties": {
+            "placeId": "07ddfaba-4cf6-410c-a3e6-e17230b42ac0",
+            "value": 40,
+            "placeName": "O'Neill's Leeds",
+            "address": "40 Boar Ln, Leeds LS1 5DA, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3529566,
+              33.7733357
+            ]
+          },
+          "properties": {
+            "placeId": "57dc7924-146b-41fb-b090-e1bb031660c5",
+            "value": 36,
+            "placeName": "The Righteous Room",
+            "address": "1051 Ponce De Leon Ave NE, Atlanta, GA 30306",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3615505,
+              33.7688859
+            ]
+          },
+          "properties": {
+            "placeId": "199cccae-62ab-499c-8ac2-e2c1cf6cc27a",
+            "value": 17,
+            "placeName": "Illuminarium Atlanta",
+            "address": "550 Somerset Terrace NE, Atlanta, GA 30306",
+            "placeType": "Exhibit"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.545048,
+              53.800071
+            ]
+          },
+          "properties": {
+            "placeId": "0703643c-80fb-40e2-970a-e2f67897dfb8",
+            "value": 7,
+            "placeName": "Carousel Leeds",
+            "address": "117 Albion St, Leeds LS2 8DY, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5494031,
+              53.7962999
+            ]
+          },
+          "properties": {
+            "placeId": "16e463c7-223e-46cf-91cc-e34620c59efc",
+            "value": 43,
+            "placeName": "Green Room",
+            "address": "36 Wellington St, Leeds LS1 2DE, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.576758,
+              53.820579
+            ]
+          },
+          "properties": {
+            "placeId": "368e70d4-f7ad-4f41-a989-e3a66bbcbda8",
+            "value": 14,
+            "placeName": "BOX Headingley",
+            "address": "8 Otley Rd, Headingley, Leeds LS6 2AD, United Kingdom",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5483065,
+              53.8007084
+            ]
+          },
+          "properties": {
+            "placeId": "80ecb91e-dcd0-429b-9d75-e3a9c51458b2",
+            "value": 33,
+            "placeName": "Pixel Bar",
+            "address": "25 Great George St, Leeds LS1 3AL, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3639691,
+              33.7572236
+            ]
+          },
+          "properties": {
+            "placeId": "b518cef6-8c4a-4102-88a2-e6445cee58fa",
+            "value": 3,
+            "placeName": "Hop City Craft Beer and Wine - The Krog District",
+            "address": "99 Krog St NE Suite D, Atlanta, GA 30307",
+            "placeType": "Beer store"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3452619,
+              33.7399098
+            ]
+          },
+          "properties": {
+            "placeId": "281fa797-244f-44d4-85b2-e65deea54e61",
+            "value": 23,
+            "placeName": "529 Bar",
+            "address": "529 Flat Shoals Ave SE, Atlanta, GA 30316",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4298716,
+              33.8077044
+            ]
+          },
+          "properties": {
+            "placeId": "8e60645e-4db9-4f5c-9125-e6a780a4a041",
+            "value": 66,
+            "placeName": "Round Trip Brewing Company",
+            "address": "1279 Seaboard Industrial Blvd NW, Atlanta, GA 30318",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3491762,
+              33.8186831
+            ]
+          },
+          "properties": {
+            "placeId": "3c5da4f4-9be8-4676-a65f-e7e7b33fd043",
+            "value": 60,
+            "placeName": "TADA - The Atlanta Dance Academy",
+            "address": "2335 Cheshire Bridge Rd NE, Atlanta, GA 30324",
+            "placeType": "Dance school"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3688969,
+              33.7732713
+            ]
+          },
+          "properties": {
+            "placeId": "840fd0dd-daf0-492c-b787-e8ce3f2d48f2",
+            "value": 17,
+            "placeName": "Mrs. P’s Bar & Kitchen",
+            "address": "551 Ponce De Leon Ave NE, Atlanta, GA 30308",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5413679,
+              53.7952619
+            ]
+          },
+          "properties": {
+            "placeId": "7cedc5d9-cee4-4b9d-923d-e8ea88ecc0b3",
+            "value": 6,
+            "placeName": "Revolution Leeds - Call Lane",
+            "address": "48 Call Ln, Leeds LS1 6DT, United Kingdom",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5433578,
+              53.7963387
+            ]
+          },
+          "properties": {
+            "placeId": "872c2114-b052-4972-87bf-e930ac78c524",
+            "value": 15,
+            "placeName": "The Botanist Trinity Leeds",
+            "address": "67 Boar Ln, Leeds LS1 6HW, United Kingdom",
+            "placeType": "Live music venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.37925,
+              33.8372784
+            ]
+          },
+          "properties": {
+            "placeId": "b3052490-23c5-44e6-aea7-e937a802b654",
+            "value": 39,
+            "placeName": "Elbow Room",
+            "address": "248 Pharr Rd NE, Atlanta, GA 30305",
+            "placeType": "Sports bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3671998,
+              33.7792262
+            ]
+          },
+          "properties": {
+            "placeId": "ac96e2c9-e5cd-4073-98a5-ea091a0dd3d3",
+            "value": 33,
+            "placeName": "The Independent",
+            "address": "931 Monroe Dr NE suite c-205, Atlanta, GA 30308",
+            "placeType": "Pool hall"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3668292,
+              33.7716908
+            ]
+          },
+          "properties": {
+            "placeId": "1429f9fd-bd81-4e84-95b4-ea8dbeb29c55",
+            "value": 50,
+            "placeName": "City Winery Atlanta",
+            "address": "Ponce City Market, 650 North Avenue NE, Atlanta, GA 30308",
+            "placeType": "Live music venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5485056,
+              53.7985201
+            ]
+          },
+          "properties": {
+            "placeId": "47488ddc-a2ba-4954-adde-eb1e41df57e7",
+            "value": 12,
+            "placeName": "The Alchemist Greek Street",
+            "address": "Yorkshire House, Greek St, Leeds LS1 5SH, United Kingdom",
+            "placeType": "Cocktail bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5432651,
+              53.7972472
+            ]
+          },
+          "properties": {
+            "placeId": "2599758a-99d5-49bb-a09c-eb60ade68dc7",
+            "value": 23,
+            "placeName": "The Turk's Head",
+            "address": "6-8 Turk's Head Yard, Leeds LS1 6HB, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5402475,
+              53.8004157
+            ]
+          },
+          "properties": {
+            "placeId": "15a1928c-b3dc-4aae-9b1d-eca8585a92b4",
+            "value": 12,
+            "placeName": "Roxy Ball Room Leeds Merrion Street",
+            "address": "9a Merrion St, Leeds LS1 6PQ, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3499778,
+              33.7622272
+            ]
+          },
+          "properties": {
+            "placeId": "7ec3db57-1330-4c74-9149-ee551931aeaa",
+            "value": 59,
+            "placeName": "Wrecking Bar Brewpub",
+            "address": "292 Moreland Ave NE, Atlanta, GA 30307",
+            "placeType": "Brewpub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.38094,
+              33.781138
+            ]
+          },
+          "properties": {
+            "placeId": "c8d6bf47-0563-4a47-b709-ef41804a74b9",
+            "value": 14,
+            "placeName": "Kat's Cafe",
+            "address": "970 Piedmont Ave NE, Atlanta, GA 30309",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.277262,
+              33.9000373
+            ]
+          },
+          "properties": {
+            "placeId": "b2a0913d-50ff-473a-8fb2-ef5b9d381acb",
+            "value": 25,
+            "placeName": "Happy Karaoke",
+            "address": "5425 Buford Hwy NE, Doraville, GA 30340",
+            "placeType": "Karaoke bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3965454,
+              33.751625
+            ]
+          },
+          "properties": {
+            "placeId": "8891914d-7d90-4209-b9ed-f0b280600772",
+            "value": 20,
+            "placeName": "Wild Leap Atlanta",
+            "address": "125 Ted Turner Dr SW, Atlanta, GA 30313",
+            "placeType": "Brewery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.367238,
+              33.8100219
+            ]
+          },
+          "properties": {
+            "placeId": "c24b26be-34d6-4db5-b146-f3a59b2f559c",
+            "value": 42,
+            "placeName": "Tripp's Bar",
+            "address": "1931 Piedmont Cir NE, Atlanta, GA 30324",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.469576,
+              33.889719
+            ]
+          },
+          "properties": {
+            "placeId": "f85fd6f5-09a6-4a17-a508-f4cf41af6f19",
+            "value": 73,
+            "placeName": "Live! at the Battery Atlanta",
+            "address": "825 Battery Ave SE #600, Atlanta, GA 30339",
+            "placeType": "Event venue"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4078956,
+              33.7831371
+            ]
+          },
+          "properties": {
+            "placeId": "73ed9985-45ca-46a7-9fc5-f504611b8971",
+            "value": 52,
+            "placeName": "Pinky Promise Champagne Bar",
+            "address": "1042 Northside Dr NW P125, Atlanta, GA 30318",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5324834,
+              53.8050579
+            ]
+          },
+          "properties": {
+            "placeId": "675d7f83-8463-4d83-817b-f55ffdbee86a",
+            "value": 8,
+            "placeName": "LA TERRASS",
+            "address": "Bristol St, Leeds LS7 1DH, United Kingdom",
+            "placeType": "Hookah bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.387437,
+              33.7586019
+            ]
+          },
+          "properties": {
+            "placeId": "75289f04-b5dd-43f2-9782-f589a166fd92",
+            "value": 60,
+            "placeName": "Lumen Lounge - Lobby Bar",
+            "address": "181 Peachtree Rd NE, Atlanta, GA 30303",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.397397,
+              33.79363
+            ]
+          },
+          "properties": {
+            "placeId": "4d978e20-e6b5-4379-82c8-f5ac18a50487",
+            "value": 33,
+            "placeName": "Yard House",
+            "address": "261 19th St NW #1100, Atlanta, GA 30363",
+            "placeType": "New American restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5425045,
+              53.7975933
+            ]
+          },
+          "properties": {
+            "placeId": "ea49633e-c715-4a8c-9fea-f626c34d8082",
+            "value": 30,
+            "placeName": "Pack Horse Leeds",
+            "address": "Packhorse Yard, Leeds LS1 6AT, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.4017627,
+              33.7477461
+            ]
+          },
+          "properties": {
+            "placeId": "82cd650b-c53b-49f4-a084-f67299d1de34",
+            "value": 12,
+            "placeName": "255 Tapas Lounge",
+            "address": "255 Peters St SW, Atlanta, GA 30313",
+            "placeType": "Lounge"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.5056631,
+              33.9385005
+            ]
+          },
+          "properties": {
+            "placeId": "64357ed2-3609-47c9-99ef-f7038ef39440",
+            "value": 18,
+            "placeName": "Rotana Restaurant and Bar",
+            "address": "585 Franklin Gateway SE #190, Marietta, GA 30067",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5409802,
+              53.8009871
+            ]
+          },
+          "properties": {
+            "placeId": "a10e953d-7fb4-426b-aeba-f7da27f74a29",
+            "value": 14,
+            "placeName": "Sandinista Leeds",
+            "address": "5 Cross Belgrave St, Leeds LS2 8JP, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3719889,
+              33.7544877
+            ]
+          },
+          "properties": {
+            "placeId": "9af04ec2-f335-49fb-846c-fc5684cdb68f",
+            "value": 38,
+            "placeName": "Handlebar ATL",
+            "address": "476 Edgewood Ave SE, Atlanta, GA 30312",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3545727,
+              33.7819847
+            ]
+          },
+          "properties": {
+            "placeId": "39a87290-8412-4d73-a39c-fc82ebb33485",
+            "value": 22,
+            "placeName": "Taco Mac Virginia Highlands",
+            "address": "1006 North Highland Avenue Northeast, Atlanta, GA 30306",
+            "placeType": "Restaurant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5335993,
+              53.7971156
+            ]
+          },
+          "properties": {
+            "placeId": "8aa2633b-40f7-48b1-a7f2-fcf770355ed2",
+            "value": 98,
+            "placeName": "The Wardrobe",
+            "address": "6 St Peter's Square, Leeds LS9 8AH, United Kingdom",
+            "placeType": "Live music bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5473658,
+              53.7993765
+            ]
+          },
+          "properties": {
+            "placeId": "63c1aeb0-2120-44bd-9f21-fe252a707c90",
+            "value": 54,
+            "placeName": "Electric Shuffle Leeds",
+            "address": "123 The Headrow, Leeds LS1 5RD, United Kingdom",
+            "placeType": "Bar"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.5458,
+              53.802
+            ]
+          },
+          "properties": {
+            "placeId": "209856e4-69c5-4848-ae54-feadc0e78aa8",
+            "value": 27,
+            "placeName": "The Hedley Verity - Disco Spoons",
+            "address": "43a Woodhouse Ln, Leeds LS1 3HQ, United Kingdom",
+            "placeType": "Pub"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -84.3684567,
+              33.7456376
+            ]
+          },
+          "properties": {
+            "placeId": "0d33c5ca-760e-4aee-af48-fed97ba85920",
+            "value": 36,
+            "placeName": "Manny's Grant Park",
+            "address": "580 Woodward Ave SE UNIT C, Atlanta, GA 30312",
+            "placeType": "Bar"
+          }
+        }
+      ]
+    }
+  }

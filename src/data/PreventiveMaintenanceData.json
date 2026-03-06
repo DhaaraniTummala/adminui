@@ -1,0 +1,122 @@
+{
+  "maintenanceSchedule": {
+    "11": [
+      {
+        "id": "PM-004376",
+        "title": "CCTV Surveillance System - Parking Area",
+        "date": "20/11/2025",
+        "daysRemaining": 3,
+        "status": "overdue",
+        "code": "CL-0812 • A-00768"
+      },
+      {
+        "id": "PM-008539",
+        "title": "Fire Alarm System - Building A",
+        "date": "20/11/2025",
+        "daysRemaining": 3,
+        "status": "completed",
+        "code": "CL-0475 • A-00744"
+      }
+    ],
+    "12": [
+      {
+        "id": "PM-007876",
+        "title": "Generator - Main Power Backup",
+        "date": "21/11/2025",
+        "daysRemaining": 3,
+        "status": "completed",
+        "code": "CL-0356 • A-00708"
+      }
+    ],
+    "13": [
+      {
+        "id": "PM-007654",
+        "title": "Elevator System - Block B",
+        "date": "22/11/2025",
+        "daysRemaining": 3,
+        "status": "completed",
+        "code": "CL-0621 • A-00768"
+      }
+    ],
+    "14": [
+      {
+        "id": "PM-001445",
+        "title": "Air Conditioning Unit - Server Room",
+        "date": "23/11/2025",
+        "daysRemaining": 4,
+        "status": "completed",
+        "code": "CL-0447 • A-00134"
+      },
+      {
+        "id": "PM-003917",
+        "title": "Water Pump - Basement",
+        "date": "24/11/2025",
+        "daysRemaining": 4,
+        "status": "overdue",
+        "code": "CL-0733 • A-00763"
+      }
+    ],
+    "15": [
+      {
+        "id": "PM-004449",
+        "title": "Access Control System - Main Entrance",
+        "date": "25/11/2025",
+        "daysRemaining": 3,
+        "status": "overdue",
+        "code": "CL-0789 • A-00748"
+      }
+    ],
+    "16": [
+      {
+        "id": "PM-004206",
+        "title": "Lighting System - Outdoor Area",
+        "date": "26/11/2025",
+        "daysRemaining": 4,
+        "status": "completed",
+        "code": "CL-0816 • A-00708"
+      },
+      {
+        "id": "PM-001907",
+        "title": "HVAC Unit - Conference Hall",
+        "date": "27/11/2025",
+        "daysRemaining": 3,
+        "status": "pending",
+        "code": "CL-0845 • A-00721"
+      }
+    ],
+    "17": [
+      {
+        "id": "PM-002225",
+        "title": "Water Heater - Gym Area",
+        "date": "27/11/2025",
+        "daysRemaining": 5,
+        "status": "pending",
+        "code": "CL-0709 • A-00766"
+      }
+    ]
+  },
+  "upcomingTasks": [
+    {
+      "id": "PM-004209",
+      "title": "Lighting System - Outdoor Area",
+      "daysRemaining": 5,
+      "status": "completed",
+      "checklistId": "CL-0810",
+      "assetId": "A-00170",
+      "maintenanceDate": "09/11/2025",
+      "completedDate": "01/12/2025",
+      "createdDate": "09/10/2025"
+    },
+    {
+      "id": "PM-001867",
+      "title": "HVAC Unit - Conference Hall",
+      "daysRemaining": 3,
+      "status": "pending",
+      "checklistId": "CL-0845",
+      "assetId": "A-00121",
+      "maintenanceDate": "27/11/2025",
+      "dueDate": "30/11/2025",
+      "createdDate": "06/10/2025"
+    }
+  ]
+}

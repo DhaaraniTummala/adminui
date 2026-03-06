@@ -1,0 +1,39 @@
+.chart-container {
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.chart-title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.chart-wrapper {
+  overflow-x: auto;
+  padding: 10px;
+}
+
+.chart-tooltip {
+  background-color: #222;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Content fades in after frame appears */
+.dropdown-content {
+  opacity: 0;
+  animation: fadeIn 0.4s ease-in-out forwards;
+  animation-delay: 0.2s; /* Delay to let the frame appear first */
+}
+
+/* Keyframes for fading in the content */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}

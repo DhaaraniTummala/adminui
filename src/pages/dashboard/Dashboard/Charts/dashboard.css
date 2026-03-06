@@ -1,0 +1,134 @@
+/* Webkit Browsers (Chrome, Edge, etc.) */
+.custom-scroll::-webkit-scrollbar {
+  width: 5px; /* reduce thickness here */
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: #7f56d9;
+}
+
+/* Horizontal Scrollbar */
+.custom-scroll-x::-webkit-scrollbar {
+  height: 5px; /* scrollbar height for horizontal */
+}
+
+.custom-scroll-x::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+.custom-scroll-x::-webkit-scrollbar-thumb {
+  background: #7f56d9;
+  border-radius: 4px;
+}
+
+.custom-scroll-x::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Bottom-fixed Scrollbar */
+.custom-scroll-bottom {
+  position: relative;
+  scrollbar-gutter: stable;
+}
+
+.custom-scroll-bottom::-webkit-scrollbar {
+  width: 6px;
+  position: absolute;
+  bottom: 0;
+}
+
+.custom-scroll-bottom::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border-radius: 3px;
+}
+
+.custom-scroll-bottom::-webkit-scrollbar-thumb {
+  background: #7f56d9;
+  border-radius: 3px;
+}
+
+.custom-scroll-bottom::-webkit-scrollbar-thumb:hover {
+  background: #6941c6;
+}
+
+/* For Firefox */
+.custom-scroll-bottom {
+  scrollbar-width: thin;
+  scrollbar-color: #7f56d9 #f3f4f6;
+}
+
+/* Alternative approach using CSS Grid for better control */
+.scroll-container-bottom {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  max-height: 320px;
+}
+
+.scroll-content {
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #7f56d9 #f3f4f6;
+}
+
+.scroll-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll-content::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border-radius: 3px;
+}
+
+.scroll-content::-webkit-scrollbar-thumb {
+  background: #7f56d9;
+  border-radius: 3px;
+}
+
+.scroll-content::-webkit-scrollbar-thumb:hover {
+  background: #6941c6;
+}
+
+/* Bottom-fixed Horizontal Scrollbar for PreventiveMaintenance */
+.custom-scroll-x-bottom {
+  position: relative;
+  overflow-x: auto;
+  scrollbar-gutter: stable;
+  padding-bottom: 20px; /* Space for scrollbar */
+}
+
+.custom-scroll-x-bottom::-webkit-scrollbar {
+  height: 8px;
+  position: absolute;
+  bottom: 0;
+}
+
+.custom-scroll-x-bottom::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border-radius: 4px;
+  margin: 0 10px;
+}
+
+.custom-scroll-x-bottom::-webkit-scrollbar-thumb {
+  background: #6941c6;
+  border-radius: 4px;
+  border: 1px solid #f3f4f6;
+}
+
+.custom-scroll-x-bottom::-webkit-scrollbar-thumb:hover {
+  background: #5b21b6;
+}
+
+/* For Firefox */
+.custom-scroll-x-bottom {
+  scrollbar-width: thin;
+  scrollbar-color: #6941c6 #f3f4f6;
+}
+
+/* Ensure scrollbar stays at bottom */
+.custom-scroll-x-bottom::-webkit-scrollbar-corner {
+  background: transparent;
+}

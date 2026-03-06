@@ -1,0 +1,728 @@
+/* COMPLETE FORM STYLING FROM SCRATCH */
+
+/* Form Container Base */
+.modern-form-container {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  width: 100%;
+  background: white;
+  padding: 32px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  box-shadow:
+    0 1px 3px 0 rgba(0, 0, 0, 0.1),
+    0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.modern-form-container.regular-form {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.modern-form-container.modal-form {
+  padding: 24px;
+}
+
+/* Form Grid Container */
+.form-grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px 20px;
+  width: 100%;
+}
+.asset-form-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  width: 100%;
+}
+.asset-form-grid .form-field-full-width {
+  grid-column: 1 / -1;
+  max-width: 100%;
+}
+
+.asset-form-grid .form-field-wrapper > * {
+  width: 100%;
+  max-width: 100%;
+}
+.form-field-full-width {
+  grid-column: 1 / -1;
+}
+
+.form-field-wrapper {
+  min-width: 0;
+  width: 100%;
+}
+
+/* RESET ALL FORM ELEMENTS */
+.modern-form-container *,
+.modern-form-container *::before,
+.modern-form-container *::after {
+  box-sizing: border-box;
+}
+
+/* Remove all Ant Design default styling */
+.modern-form-container .ant-form-item {
+  margin-bottom: 20px !important;
+  padding: 0 !important;
+  border: none !important;
+  background: transparent !important;
+}
+
+.modern-form-container .ant-form-item-control {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.modern-form-container .ant-form-item-control-input {
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
+.modern-form-container .ant-form-item-control-input-content {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* FIELD WRAPPER */
+.modern-form-field {
+  width: 100%;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Full width fields (descriptions, textareas) */
+.modern-form-field.full-width {
+  grid-column: 1 / -1;
+}
+
+/* Date picker styling to match reference
+.modern-form-container .ant-picker {
+  min-height: 40px !important;
+  height: 40px !important;
+  padding: 8px 12px !important;
+  border-radius: 4px !important;
+  border: 1px solid #d0d5dd !important;
+  box-shadow: none !important;
+  display: flex !important;
+  align-items: center !important;
+  background: white !important;
+} */
+
+.modern-form-container .ant-picker-input > input {
+  font-size: 14px !important;
+  color: #101828 !important;
+  border: none !important;
+  padding: 0 !important;
+  height: auto !important;
+}
+
+.modern-form-container .ant-picker-suffix {
+  color: #667085 !important;
+}
+
+/* Fix spacing issues for conditionally shown fields */
+.form-field-wrapper {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* LABELS */
+.modern-form-field label {
+  display: block !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  color: #344054 !important;
+  margin-bottom: 6px !important;
+  line-height: 20px !important;
+}
+
+/* Required field asterisk styling - Removed to prevent double asterisks */
+/* Asterisks are now handled in JSX code for better control */
+
+/* UNIVERSAL INPUT STYLING */
+.modern-form-container input,
+.modern-form-container .ant-input:not(textarea) {
+  width: 100% !important;
+  min-height: 40px !important;
+  height: 40px !important;
+  padding: 8px 12px !important;
+  border-radius: 4px !important;
+  border: 1px solid #d0d5dd !important;
+  box-shadow: none !important;
+  font-size: 14px !important;
+  line-height: 20px !important;
+  background: white !important;
+  color: #101828 !important;
+  outline: none !important;
+  transition: all 0.2s ease !important;
+}
+
+/* TEXTAREA SPECIFIC STYLING */
+.modern-form-container textarea,
+.modern-form-container .ant-input[type='textarea'] {
+  width: 100% !important;
+  min-height: 135px !important;
+  height: 135px !important;
+  padding: 12px !important;
+  border-radius: 4px !important;
+  border: 1px solid #d0d5dd !important;
+  box-shadow: none !important;
+  font-size: 14px !important;
+  line-height: 20px !important;
+  font-weight: 400;
+  background: white !important;
+  color: #101828 !important;
+  outline: none !important;
+  transition: all 0.2s ease !important;
+  resize: vertical !important;
+  font-family: inherit !important;
+}
+
+.css-xrmkj5-MuiInputBase-root-MuiOutlinedInput-root {
+  padding: 1px 0px !important;
+}
+
+/* OVERRIDE MATERIAL-UI BORDERS - COMPLETE RESET */
+.modern-form-container .MuiOutlinedInput-root {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.modern-form-container .MuiOutlinedInput-notchedOutline {
+  border: none !important;
+  display: none !important;
+}
+
+.modern-form-container .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border: none !important;
+  display: none !important;
+}
+
+.modern-form-container .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border: none !important;
+  display: none !important;
+}
+
+.modern-form-container .MuiTextField-root .MuiOutlinedInput-input,
+.modern-form-container .MuiDatePicker-root .MuiOutlinedInput-input {
+  border: 1px solid lightgray !important;
+  border-radius: 8px !important;
+  font-size: 14px !important;
+  color: #101828 !important;
+  background: transparent !important;
+  min-height: 30px !important;
+  height: 30px !important;
+}
+
+.react-datepicker__day--disabled:hover {
+  background-color: transparent !important;
+}
+
+/* Month/Year Dropdowns */
+.react-datepicker__month-dropdown,
+.react-datepicker__year-dropdown {
+  background-color: #ffffff !important;
+  border: 1px solid #e5e7eb !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+  padding: 8px !important;
+}
+
+.react-datepicker__month-option,
+.react-datepicker__year-option {
+  padding: 8px 12px !important;
+  border-radius: 6px !important;
+  transition: background-color 0.2s ease !important;
+}
+
+.react-datepicker__month-option:hover,
+.react-datepicker__year-option:hover {
+  background-color: #f3f4f6 !important;
+}
+
+.react-datepicker__month-option--selected,
+.react-datepicker__year-option--selected {
+  background-color: #7f56d9 !important;
+  color: #ffffff !important;
+}
+
+/* Triangle Arrow */
+.react-datepicker__triangle {
+  display: none !important;
+}
+
+/* Remove any remaining Material-UI borders */
+.modern-form-container .MuiInputBase-root::before,
+.modern-form-container .MuiInputBase-root::after {
+  display: none !important;
+  border: none !important;
+}
+
+.modern-form-container .MuiInput-underline::before,
+.modern-form-container .MuiInput-underline::after {
+  display: none !important;
+  border: none !important;
+}
+
+/* HIGHEST PRIORITY - FORCE DATE FIELD BORDERS */
+.modern-form-container .MuiTextField-root .MuiOutlinedInput-root,
+.modern-form-container .MuiDatePicker-root .MuiOutlinedInput-root,
+.modern-form-container [data-testid*='date'] .MuiOutlinedInput-root,
+.modern-form-container div[class*='MuiTextField'] .MuiOutlinedInput-root {
+  border: 1px solid #d0d5dd !important;
+  border-radius: 4px !important;
+  background: white !important;
+  min-height: 40px !important;
+  height: 40px !important;
+  box-shadow: none !important;
+}
+
+/* Remove internal fieldset borders completely */
+.modern-form-container .MuiTextField-root fieldset,
+.modern-form-container .MuiDatePicker-root fieldset,
+.modern-form-container fieldset,
+.modern-form-container .MuiOutlinedInput-notchedOutline,
+.modern-form-container .MuiTextField-root .MuiOutlinedInput-notchedOutline,
+.modern-form-container .MuiDatePicker-root .MuiOutlinedInput-notchedOutline,
+.modern-form-container [class*='MuiOutlinedInput'] fieldset,
+.modern-form-container [class*='MuiTextField'] fieldset {
+  border: none !important;
+  display: none !important;
+}
+
+/* FOCUS STATES - REMOVED COLORS */
+.modern-form-container input:focus,
+.modern-form-container textarea:focus,
+.modern-form-container .ant-input:focus,
+.modern-form-container .ant-select-focused .ant-select-selector,
+.modern-form-container .ant-picker-focused {
+  border-color: #d0d5dd !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* HOVER STATES */
+.modern-form-container input:hover,
+.modern-form-container textarea:hover,
+.modern-form-container .ant-input:hover,
+.modern-form-container .ant-select:hover .ant-select-selector,
+.modern-form-container .ant-picker:hover {
+  border-color: #98a2b3 !important;
+}
+
+/* PLACEHOLDER */
+.modern-form-container input::placeholder,
+.modern-form-container textarea::placeholder,
+.modern-form-container .ant-input::placeholder {
+  color: rgb(156, 163, 175) !important;
+  opacity: 1 !important;
+  font-size: 14px !important;
+}
+
+/* SELECT DROPDOWN */
+.modern-form-container .ant-select {
+  width: 100% !important;
+}
+
+.modern-form-container .ant-select-selection-placeholder {
+  color: #667085 !important;
+  font-size: 14px !important;
+  line-height: 20px !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.modern-form-container .ant-select-arrow {
+  color: #667085 !important;
+}
+
+/* Select field styling to match reference */
+.modern-form-container .ant-select-selector {
+  min-height: 40px !important;
+  height: 40px !important;
+  padding: 8px 12px !important;
+  border-radius: 4px !important;
+  border: 1px solid #d0d5dd !important;
+  box-shadow: none !important;
+  display: flex !important;
+  align-items: center !important;
+  background: white !important;
+}
+
+.modern-form-container .ant-select-single .ant-select-selector {
+  min-height: 40px !important;
+  height: 40px !important;
+  padding: 8px 12px !important;
+}
+
+.modern-form-container .ant-select-selection-item {
+  color: #101828 !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 20px !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.modern-form-container .ant-select-selection-search {
+  height: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.modern-form-container .ant-select-selection-search-input {
+  height: 100% !important;
+  min-height: 22px !important;
+}
+
+/* DATE PICKER */
+.modern-form-container .ant-picker-input > input {
+  border: none !important;
+  padding: 12px 12px !important;
+  font-size: 14px !important;
+  color: #374151 !important;
+}
+
+.modern-form-container .ant-picker-suffix {
+  color: #6b7280 !important;
+}
+
+/* Description fields - ensure they are full width and properly styled */
+.modern-form-container .form-field-full-width textarea,
+.modern-form-container textarea[placeholder*='description' i],
+.modern-form-container textarea[placeholder*='Description'],
+.modern-form-container .ant-input[placeholder*='description' i],
+.modern-form-container .ant-input[placeholder*='Description'] {
+  min-height: 100px !important;
+  width: 100% !important;
+  grid-column: 1 / -1 !important;
+}
+
+.modern-form-container textarea:focus {
+  border-color: #d0d5dd !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Full-width description fields */
+.modern-form-container div[style*="gridColumn: '1 / -1'"] .modern-form-field textarea,
+.modern-form-container div[style*="gridColumn: '1 / -1'"] textarea {
+  width: 100% !important;
+  min-height: 150px !important;
+  margin-bottom: 20px !important;
+}
+
+/* RADIO BUTTONS */
+.modern-form-container .ant-radio-wrapper {
+  font-size: 16px !important;
+  color: #344054 !important;
+  margin-right: 24px !important;
+  margin-bottom: 12px !important;
+}
+
+.modern-form-container .ant-radio-inner {
+  border-color: #d0d5dd !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.modern-form-container .ant-radio-checked .ant-radio-inner {
+  border-color: #7f56d9 !important;
+  background-color: #7f56d9 !important;
+}
+
+.modern-form-container .ant-radio-inner::after {
+  width: 8px !important;
+  height: 8px !important;
+  background-color: white !important;
+}
+
+/* SWITCHES */
+.modern-form-container .ant-switch {
+  background-color: #e4e7ec !important;
+  border: none !important;
+  min-width: 44px !important;
+  height: 24px !important;
+  border-radius: 12px !important;
+}
+
+.modern-form-container .ant-switch-checked {
+  background-color: #7f56d9 !important;
+}
+
+.modern-form-container .ant-switch-handle {
+  width: 20px !important;
+  height: 20px !important;
+  top: 2px !important;
+}
+
+.modern-form-container .ant-switch-checked .ant-switch-handle {
+  left: calc(100% - 22px) !important;
+}
+
+/* DISABLED STATES */
+.modern-form-container input:disabled,
+.modern-form-container textarea:disabled,
+.modern-form-container .ant-input:disabled,
+.modern-form-container .ant-select-disabled .ant-select-selector {
+  background-color: #f9fafb !important;
+  border-color: #eaecf0 !important;
+  color: #98a2b3 !important;
+  cursor: not-allowed !important;
+}
+
+/* Error states */
+.modern-form-container .ant-form-item-has-error input,
+.modern-form-container .ant-form-item-has-error textarea,
+.modern-form-container .ant-form-item-has-error .ant-select-selector,
+.modern-form-container .ant-form-item-has-error .ant-picker {
+  border-color: #f04438 !important;
+  box-shadow:
+    0px 1px 2px 0px rgba(16, 24, 40, 0.05),
+    0px 0px 0px 4px rgba(240, 68, 56, 0.12) !important;
+}
+
+.modern-form-container .ant-form-item-explain-error {
+  color: #f04438 !important;
+  font-size: 14px !important;
+  margin-top: 6px !important;
+}
+
+/* FIELD WRAPPER */
+.form-field-wrapper {
+  width: 100%;
+}
+
+/* DRAWER SPECIFIC STYLES */
+.form-drawer .ant-drawer-header {
+  padding: 16px 24px !important;
+  border-bottom: 1px solid #e5e7eb !important;
+}
+
+.form-drawer .ant-drawer-body {
+  padding: 0 !important;
+  background-color: #f9fafb !important;
+}
+
+.form-drawer .ant-drawer-close {
+  color: #6b7280 !important;
+  font-size: 16px !important;
+}
+
+.form-drawer .ant-drawer-close:hover {
+  color: #374151 !important;
+}
+
+/* Drawer form container adjustments */
+.form-drawer .modern-form-container {
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+}
+
+.form-drawer .modern-form-container.modal-form {
+  padding: 0 !important;
+}
+
+/* Ensure proper scrolling in drawer */
+.form-drawer .form-grid-container {
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+/* Drawer form specific styling */
+.drawer-form {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+}
+
+.drawer-form .form-grid-container {
+  gap: 24px 32px !important;
+  margin-bottom: 24px !important;
+}
+
+/* Adjust button container for drawer */
+.drawer-form .defaultButtonsRender > div {
+  background: white !important;
+  padding: 20px 0 !important;
+  margin: 24px -24px -24px -24px !important;
+  border-top: 1px solid #e5e7eb !important;
+  position: sticky !important;
+  bottom: -24px !important;
+  z-index: 10 !important;
+}
+
+/* WorkOrder specific styling - only for main form, not child grids */
+[data-entity='WorkOrder'] .form-field-wrapper,
+[data-table='10818'] .form-field-wrapper {
+  min-width: 200px;
+  max-width: 250px;
+  flex: 1 1 calc(25% - 24px);
+}
+
+/* Ensure child grid forms (Scope, Financial) keep normal width */
+[data-entity='WorkOrder'] [data-is-child='true'] .form-field-wrapper,
+[data-table='10818'] [data-is-child='true'] .form-field-wrapper {
+  min-width: 0;
+}
+
+/* FINAL OVERRIDE - FORCE DATE FIELD BORDERS WITH MAXIMUM SPECIFICITY */
+.modern-form-container div div .MuiTextField-root .MuiOutlinedInput-root,
+.modern-form-container div div .MuiDatePicker-root .MuiOutlinedInput-root,
+.modern-form-container .form-field-wrapper .MuiTextField-root .MuiOutlinedInput-root,
+.modern-form-container .form-field-wrapper .MuiDatePicker-root .MuiOutlinedInput-root {
+  border: none !important;
+
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Form wrapper main container */
+.form-wrapper-main {
+  position: relative !important;
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: hidden !important;
+}
+
+/* Scrollable content area */
+.form-content-scrollable {
+  flex: 1 !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  scrollbar-width: thin !important; /* For Firefox */
+  scrollbar-color: #6941c6 #f7fafc !important; /* Purple thumb, light track */
+}
+
+/* Custom scrollbar for Webkit browsers (Chrome, Safari, Edge) */
+.form-content-scrollable::-webkit-scrollbar {
+  width: 6px !important;
+  height: 6px !important;
+}
+
+.form-content-scrollable::-webkit-scrollbar-track {
+  background: #f7fafc !important;
+  border-radius: 4px !important;
+}
+
+.form-content-scrollable::-webkit-scrollbar-thumb {
+  background: #6941c6 !important;
+  border-radius: 4px !important;
+}
+
+.form-content-scrollable::-webkit-scrollbar-thumb:hover {
+  background: #5a35b0 !important;
+}
+
+/* Exclude dropdowns from custom scrollbar - let them use default */
+.ant-select-dropdown::-webkit-scrollbar,
+.MuiMenu-paper::-webkit-scrollbar,
+.MuiPopover-paper::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+.ant-select-dropdown::-webkit-scrollbar-track,
+.MuiMenu-paper::-webkit-scrollbar-track,
+.MuiPopover-paper::-webkit-scrollbar-track {
+  background: #f1f1f1 !important;
+}
+
+.ant-select-dropdown::-webkit-scrollbar-thumb,
+.MuiMenu-paper::-webkit-scrollbar-thumb,
+.MuiPopover-paper::-webkit-scrollbar-thumb {
+  background: #888 !important;
+  border-radius: 4px !important;
+}
+
+.ant-select-dropdown::-webkit-scrollbar-thumb:hover,
+.MuiMenu-paper::-webkit-scrollbar-thumb:hover,
+.MuiPopover-paper::-webkit-scrollbar-thumb:hover {
+  background: #555 !important;
+}
+
+/* Absolute positioned footer */
+.form-footer-absolute {
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  background-color: #ffffff !important;
+
+  z-index: 100 !important;
+}
+
+/* Footer buttons */
+.form-footer-absolute .ant-btn {
+  border-radius: 6px !important;
+  border: none !important;
+  padding: 10px 16px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  min-height: 36px !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.form-footer-absolute .ant-btn:hover {
+  opacity: 0.9 !important;
+  transform: translateY(-1px) !important;
+}
+
+.form-footer-absolute .ant-btn:disabled {
+  opacity: 0.5 !important;
+  cursor: not-allowed !important;
+}
+
+/* Drawer body - no scroll, let form content handle it */
+.ant-drawer-body {
+  overflow: hidden !important;
+  height: 100% !important;
+}
+
+/* Form wrapper scrollbar */
+.form-wrapper-main {
+  scrollbar-width: thin !important;
+  scrollbar-color: #6941c6 #f7fafc !important;
+}
+
+.form-wrapper-main::-webkit-scrollbar {
+  width: 6px !important;
+  height: 6px !important;
+}
+
+.form-wrapper-main::-webkit-scrollbar-track {
+  background: #f7fafc !important;
+  border-radius: 4px !important;
+}
+
+.form-wrapper-main::-webkit-scrollbar-thumb {
+  background: #6941c6 !important;
+  border-radius: 4px !important;
+}
+
+.form-wrapper-main::-webkit-scrollbar-thumb:hover {
+  background: #5a35b0 !important;
+}
+
+/* Force white background for all drawers */
+.ant-drawer-body {
+  background-color: #ffffff !important;
+}
+
+.form-drawer .ant-drawer-body {
+  background-color: #ffffff !important;
+}
+
+/* Ensure inner wrapper is also white */
+.ant-drawer-body > div {
+  background-color: #ffffff !important;
+}

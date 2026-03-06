@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  .ag-theme-alpine .ag-root {
+    @apply dark:bg-gray-900 dark:text-white;
+  }
+  .ag-theme-alpine .ag-row {
+    @apply dark:bg-gray-900 dark:text-white;
+  }
+  .ag-theme-alpine .ag-header,
+  .ag-theme-alpine .ag-header-cell {
+    @apply dark:bg-gray-900 dark:text-white dark:transition-none;
+  }
+  
+  /* Remove background colors from AG-Grid and containers */
+  .ag-theme-alpine,
+  .ag-theme-material,
+  .ag-theme-alpine .ag-root-wrapper,
+  .ag-theme-alpine .ag-root,
+  .ag-theme-material .ag-root-wrapper,
+  .ag-theme-material .ag-root,
+  .ag-theme-alpine .ag-center-cols-container,
+  .ag-theme-material .ag-center-cols-container,
+  .ag-theme-alpine .ag-body-viewport,
+  .ag-theme-material .ag-body-viewport {
+    background-color: transparent !important;
+  }
+  .custom-select .ant-select-selector {
+    @apply dark:bg-gray-900 dark:text-white;
+  }
+
+  .custom-select .ant-select-selection-item {
+    @apply dark:text-white;
+  }
+  .custom-select .ant-select-arrow {
+    @apply dark:text-white;
+  }
+
+  .modal-container .ant-modal-content {
+    @apply dark:bg-gray-900 dark:border dark:border-gray-400;
+  }
+  .modal-container .ant-col label {
+    @apply dark:text-white;
+  }
+  .modal-container .ant-col input {
+    @apply dark:border-b dark:border-gray-200;
+  }
+  .modal-container .ant-form-item-control-input-content .MuiInput-formControl {
+    @apply dark:border-b dark:border-gray-200 w-full dark:text-white;
+  }
+
+  .plusAddButtonModalPopUp_Dropdown {
+    @apply dark:bg-gray-900 dark:text-white dark:hover:text-black;
+  }
+
+  .formControl .MuiSelect-icon {
+    @apply dark:text-white;
+  }
+
+  .actionDropDown .ant-dropdown-menu-item-active {
+    @apply dark:hover:bg-gray-500 dark:hover:text-gray-900 dark:text-white hover:bg-gray-100;
+  }
+
+  .customStyleForChatBox .rcw-messages-container{
+    @apply dark:bg-gray-900
+  }
+  .customStyleForChatBox .rcw-message-text{
+    @apply dark:p-[9px] dark:text-xs p-[9px] text-xs
+  }
+  .customStyleForChatBox .rcw-timestamp{
+    @apply dark:text-white
+  }
+  
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Nunito Font
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+} */
+.modal-container {
+  width: 100%;
+}
+.modal-container .ant-modal-content {
+  border: 1px solid rgb(78, 78, 78);
+}
+
+.grid-view-flex {
+  display: flex;
+}
+.child-view-section-header {
+  font-size: 20px;
+  margin-top: 82px;
+  font-weight: 600;
+  padding-bottom: 0px;
+}
+
+.grid-view-flex .child-view-section-header {
+  font-size: 20px;
+  margin-top: 15px;
+  font-weight: 600;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+  background-color: #ebebeb;
+  padding: 5px 0px 5px 25px;
+  border-bottom: 2px solid #2f2f2f61;
+}
+
+/* AgGrid Horizantal Scroll Bar*/
+.custom-horizontal-scrollbar .ag-body-horizontal-scroll-viewport::-webkit-scrollbar {
+  height: 7px;
+}
+
+.custom-horizontal-scrollbar .ag-body-horizontal-scroll-viewport::-webkit-scrollbar-thumb {
+  background-color: #b3b3b3;
+  border-radius: 6px;
+}
+
+/* AgGrid Vertical Scroll Bar*/
+.custom-horizontal-scrollbar .ag-body-viewport::-webkit-scrollbar {
+  width: 10px;
+}
+
+.custom-horizontal-scrollbar .ag-body-viewport::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 6px;
+}
+
+.custom-horizontal-scrollbar .ag-body-viewport::-webkit-scrollbar-thumb {
+  background-color: #b3b3b3;
+  border-radius: 6px;
+}
+
+.custom-horizontal-scrollbar .ag-body-viewport::-webkit-scrollbar-thumb:hover {
+  background-color: #888;
+}
+
+.custom-horizontal-scrollbar .ag-body-vertical-scroll-viewport::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-horizontal-scrollbar .ag-body-vertical-scroll-viewport::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 6px;
+}
+
+.custom-horizontal-scrollbar .ag-body-vertical-scroll-viewport::-webkit-scrollbar-thumb {
+  background-color: #b3b3b3;
+  border-radius: 6px;
+}
+
+.custom-horizontal-scrollbar .ag-body-vertical-scroll-viewport::-webkit-scrollbar-thumb:hover {
+  background-color: #888;
+}
+
+/* Pagination positioning for sidebar layout */
+.ag-paging-panel.ag-unselectable {
+  /* Default sidebar width */
+  --sidebar-width: 335px;
+}
+
+/* Responsive sidebar handling */
+@media (max-width: 768px) {
+  .ag-paging-panel.ag-unselectable {
+    --sidebar-width: 0px; /* No sidebar on mobile */
+  }
+}
+
+/* When sidebar is collapsed */
+.sidebar-collapsed .ag-paging-panel.ag-unselectable {
+  --sidebar-width: 60px; /* Collapsed sidebar width */
+}

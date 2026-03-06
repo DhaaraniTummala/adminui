@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply">
+<rect width="40" height="40" rx="8" fill="#FCFCFD"/>
+<path d="M14 18H17" stroke="#00C8B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.76 30H25.24C28 30 29.1 28.31 29.23 26.25L29.75 17.99C29.81 17.06 29.52 16.19 29.01 15.51" stroke="#00C8B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.77 26.25C10.82 27.07 11.03 27.84 11.44 28.46" stroke="#00C8B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26 14C25.39 14 24.83 13.65 24.55 13.11L23.83 11.66C23.37 10.75 22.17 10 21.15 10H18.86C17.83 10 16.63 10.75 16.17 11.66L15.45 13.11C15.17 13.65 14.61 14 14 14C11.83 14 10.11 15.83 10.25 17.99L10.5 22.02" stroke="#00C8B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 25.31C18.55 25.74 19.25 26 20 26C21.79 26 23.25 24.54 23.25 22.75C23.25 22.11 23.07 21.52 22.75 21.02" stroke="#00C8B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 10L10 30" stroke="#00C8B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

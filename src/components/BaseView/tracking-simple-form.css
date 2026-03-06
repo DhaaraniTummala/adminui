@@ -1,0 +1,23 @@
+/* Tracking Form Wrapper - overrides form-grid-container for tracking forms */
+.tracking-form-wrapper {
+  /* No grid layout - let the tracking form handle its own layout */
+  display: block !important;
+  width: 100%;
+}
+
+/* Make the left column form grid display 3 columns instead of 2 */
+.tracking-form-wrapper .form-grid-container {
+  grid-template-columns: 1fr 1fr 1fr !important;
+  gap: 24px 20px !important;
+}
+
+/* Radio button styling for tracking forms */
+input[type='radio'][name='vehicleType'] {
+  accent-color: #7f56d9 !important;
+}
+
+/* Selected radio button text color */
+input[type='radio'][name='vehicleType']:checked + span {
+  color: #7f56d9 !important;
+  font-weight: 500 !important;
+}

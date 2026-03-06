@@ -1,0 +1,138 @@
+/* WorkOrder Layout - Side by Side Sections */
+
+/* Add padding to Work Order drawer */
+.modern-form-container[data-entity='WorkOrder'] .form-wrapper-main {
+  padding: 24px !important;
+}
+
+/* Main container for side-by-side layout */
+.modern-form-container[data-entity='WorkOrder'] .form-grid-container {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 20px !important;
+  width: 98.5% !important;
+  box-sizing: border-box !important;
+  align-items: stretch !important;
+}
+
+/* Each main section takes 50% width with equal height */
+.modern-form-container[data-entity='WorkOrder'] .form-field-full-width {
+  width: 50% !important;
+  max-width: 50% !important;
+  box-sizing: border-box !important;
+  flex: 0 0 50% !important;
+  align-self: stretch !important;
+}
+
+/* Force Vendor section to use 2-column grid layout */
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:first-child
+  .ant-collapse-content
+  .form-grid-container {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  gap: 16px !important;
+  padding: 16px 16px !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Make sure collapse content takes full width */
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:first-child
+  .ant-collapse-content {
+  width: 100% !important;
+}
+
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:first-child
+  .ant-collapse-content-box {
+  width: 200% !important;
+  padding: 0 !important;
+}
+
+/* Make form field wrappers take full width */
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:first-child
+  .form-field-wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Force Address section to use single column layout */
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:last-child
+  .ant-collapse-content
+  .form-grid-container {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 16px !important;
+  padding: 16px !important;
+  width: 200% !important;
+  box-sizing: border-box !important;
+}
+
+/* Make sure collapse content takes full width */
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:last-child
+  .ant-collapse-content {
+  width: 100% !important;
+}
+
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:last-child
+  .ant-collapse-content-box {
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+/* Make form field wrappers take full width */
+.modern-form-container[data-entity='WorkOrder']
+  .form-field-full-width:last-child
+  .form-field-wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Make all inputs take full width */
+.modern-form-container[data-entity='WorkOrder'] .ant-input,
+.modern-form-container[data-entity='WorkOrder'] .ant-picker,
+.modern-form-container[data-entity='WorkOrder'] .ant-select,
+.modern-form-container[data-entity='WorkOrder'] textarea {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Make all form items and controls take full width */
+.modern-form-container[data-entity='WorkOrder'] .ant-form-item {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.modern-form-container[data-entity='WorkOrder'] .ant-form-item-control {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.modern-form-container[data-entity='WorkOrder'] .ant-form-item-control-input {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.modern-form-container[data-entity='WorkOrder'] .ant-form-item-control-input-content {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Responsive: Stack sections vertically on smaller screens */
+@media (max-width: 1200px) {
+  .modern-form-container[data-entity='WorkOrder'] .form-grid-container {
+    flex-direction: column !important;
+  }
+
+  .modern-form-container[data-entity='WorkOrder'] .form-field-full-width {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+}

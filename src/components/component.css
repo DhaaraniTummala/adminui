@@ -1,0 +1,217 @@
+.arrow {
+  position: absolute;
+  top: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid rgb(5, 110, 233);
+}
+.fullScreenPopup {
+  background-color: rgb(5, 110, 233);
+}
+
+.dropdown {
+  position: relative;
+  width: 130px;
+  margin-left: -16px;
+  font-family: Arial, sans-serif;
+}
+
+.dropdown-header {
+  display: flex;
+  align-items: center;
+
+  padding: 7px;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #fff;
+  margin-left: 15px;
+}
+
+.dropdown-header span {
+  margin-left: 8px;
+}
+
+.dropdown-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 5px;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  visibility: hidden;
+  max-height: 0;
+  overflow: hidden;
+  transition:
+    opacity 0.3s ease,
+    max-height 0.3s ease;
+}
+
+.dropdown-list.open {
+  opacity: 1;
+  visibility: visible;
+  max-height: 300px;
+}
+
+.dropdown-list-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown-list-item span {
+  margin-left: 8px;
+}
+
+.dropdown-list-item:hover {
+  background: #f0f0f0;
+}
+
+.dropdown-list-item.active {
+  background: #e0e0e0;
+}
+
+.check-icon {
+  margin-left: auto;
+  color: #007bff;
+}
+
+.fas.fa-chevron-down {
+  transition: transform 0.3s ease;
+}
+
+.fas.fa-chevron-down.open {
+  transform: rotate(180deg);
+}
+
+.customStyleForChatBox .rcw-picker-btn {
+  margin-left: 7px;
+}
+.customStyleForChatBox .rcw-new-message {
+  background-color: #fff;
+  border: 0;
+  border-radius: 5px;
+  padding: 10px 5px;
+  resize: none;
+  width: calc(100% - -23px);
+  margin-left: -5px;
+}
+
+.customStyleForChatBox .rcw-send {
+  margin-left: 14px;
+  width: 29px;
+}
+
+.customStyleForChatBox .rcw-open-launcher {
+  margin-left: 14px;
+}
+
+.customStyleForChatBox .rcw-close-launcher {
+  margin-left: 19px;
+}
+
+.navLinkCustomButton .buttonStyle {
+  background-color: rgb(235, 237, 239);
+  border: 0px !important;
+  margin: 0 !important;
+}
+
+.navLinkCustomButton .buttonStyle.active {
+  background-color: rgb(5, 110, 233);
+  color: white !important;
+}
+
+.rcw-sender {
+  width: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.rcw-picker-btn {
+  width: 50px;
+}
+
+.rcw-picker-btn .rcw-picker-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.rcw-input {
+  font-size: 12px;
+  cursor: text;
+}
+
+.rcw-send {
+  width: 55px;
+}
+
+.rcw-send-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.rcw-message-text {
+  font-size: 14px;
+  text-align: justify;
+}
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.rcw-message.rwc-response {
+  animation: slideInLeft 0.5s ease-out;
+}
+
+.rcw-message.rwc-client {
+  animation: slideInRight 0.5s ease-out;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+.reset__button {
+  position: absolute;
+  right: 40px;
+  top: 440px;
+  font-size: 10px;
+  color: #056ee9;
+  z-index: 100000;
+}
+
+.button__icon {
+  font-size: 25px;
+  box-shadow: 1px 2px 5px lightgray;
+  background: transparent;
+  padding: 3px;
+  border-radius: 50px;
+}

@@ -1,0 +1,81 @@
+/* Custom toolbar button styles with high specificity to override Ant Design */
+
+.custom-add-button.ant-btn {
+  background-color: #6941c6 !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+  border: none !important;
+  padding: 10px 24px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+  min-width: auto !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+.custom-export-button.ant-btn {
+  border-radius: 8px !important;
+  border: 1px solid #6941c6 !important;
+  color: #6941c6 !important;
+  background-color: #fff !important;
+  padding: 10px 24px !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+  min-width: auto !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+.custom-export-button.ant-btn:hover,
+.custom-export-button.ant-btn:focus {
+  background-color: #f3f4f6 !important;
+  border-color: #5b21b6 !important;
+  color: #5b21b6 !important;
+  box-shadow: none !important;
+}
+
+/* Additional specificity for Ant Design button variants */
+.ant-btn.custom-add-button.ant-btn-primary {
+  background-color: #6941c6 !important;
+  border-color: #6941c6 !important;
+  padding: 10px 24px !important;
+}
+
+.ant-btn.custom-add-button.ant-btn-primary:hover,
+.ant-btn.custom-add-button.ant-btn-primary:focus {
+  background-color: #5b21b6 !important;
+  border-color: #5b21b6 !important;
+}
+
+.ant-btn.custom-export-button.ant-btn-default {
+  border-color: #6941c6 !important;
+  color: #6941c6 !important;
+  background-color: #fff !important;
+  padding: 10px 24px !important;
+}
+
+.ant-btn.custom-export-button.ant-btn-default:hover,
+.ant-btn.custom-export-button.ant-btn-default:focus {
+  border-color: #5b21b6 !important;
+  color: #5b21b6 !important;
+  background-color: #f3f4f6 !important;
+}
+
+/* Remove DateRangeSelect internal borders */
+.ant-select.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.ant-select:hover .ant-select-selector,
+.ant-select.ant-select-focused .ant-select-selector,
+.ant-select.ant-select-open .ant-select-selector {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}

@@ -1,0 +1,17 @@
+/* Custom radio button styling for Schedule Maintenance Drawer */
+.ant-radio-checked .ant-radio-inner {
+  border-color: #7f56d9 !important;
+  background-color: #7f56d9 !important;
+}
+
+.ant-radio:hover .ant-radio-inner {
+  border-color: #7f56d9 !important;
+}
+
+.ant-radio-checked::after {
+  border-color: #7f56d9 !important;
+}
+
+.ant-radio-wrapper:hover .ant-radio-inner {
+  border-color: #7f56d9 !important;
+}

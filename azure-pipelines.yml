@@ -1,0 +1,29 @@
+trigger:
+  branches:
+    include:
+      - platiqxdev
+
+pool:
+  vmImage: ubuntu-latest
+  
+
+variables:
+  - group: Maiden Cube App
+
+steps:
+  - task: NodeTool@0
+    inputs:
+      versionSpec: '22.x'
+    displayName: 'Install Node.js'
+
+  - script: |
+      npm ci --legacy-peer-deps
+      export NODE_OPTIONS=--max-old-space-size=8192
+      npm run build --legacy-peer-deps
+    displayName: 'Build React App'
+
+  - task: AzureStaticWebApp@0
+    inputs:
+      app_location: '/'
+      output_location: 'dist'
+      azure_static_web_apps_api_token: $(deployment_token)

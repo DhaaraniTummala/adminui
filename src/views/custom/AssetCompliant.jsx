@@ -201,6 +201,12 @@ const createAssetCompliantCustomizations = () => {
 
       let updatedColumns = [...columns];
 
+      const isBdoColumn = updatedColumns.find((col) => col.dataIndex === 'IsBDO' || col.dataIndex === 'isBDO');
+      if (isBdoColumn) {
+        isBdoColumn.header = 'Complaint Status';
+        isBdoColumn.title = 'Complaint Status';
+      }
+
       // For non-admin users, hide SectionTypeId and LocationTypeId columns
       /*if (!isAdmin) {
         const columnsToHide = ['SectionTypeId', 'LocationTypeId'];
